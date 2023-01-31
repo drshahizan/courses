@@ -19,6 +19,21 @@ Students need to prepare TWO different reports for each selected extra-curricula
 ## Assignment 2 : Video Presentation on Case Study
 In a group of 4 – 5 students, produce a 5 – 7 minute video presentation on the proposal of an extracurricular activity/programme that can enhance UTM graduate attributes among students. The process can be started by reviewing the reflection of each group member to identify the attributes to be enhanced. Select 2 – 3 attributes that are suitable for one-day activity/programme. To add justification, one simple survey can be conducted on the target participants to obtain feedback related to the proposed activity/programme.
 
+#### 🌟 Video
+
+| Team | Title | Video |
+| ----- | ----- | :------: | 
+| 1 |  | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 2 |  | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 3 |  | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 4 |  | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 5 |  | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 6 |  | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 7 |  | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 8 |  | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 9 |  | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/courses/issues) for any improvements, suggestions or errors in the content.
 
