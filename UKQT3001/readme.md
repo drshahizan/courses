@@ -24,15 +24,15 @@ Students need to prepare TWO different reports for each selected extra-curricula
 | Abdimajid Gelle Awil | SPE UTM Company Day | UTM International Somali Society Futsal Tournament |📔|
 | Abdisamad Dayib Mohamed | Jawatankuasa Kolej Mahasiswa Kolej Datin Seri Endon | SPE-UTM SC Career Workshop |📔|
 | Abel Agustinus | Cultural Festival 2021 | Virtual Night Movie |📔|
-| Afika Syamrina Binti Benamri | Snipe The Bow | Visit MBJB |📔|
+| Afika Syamrina Binti Benamri | Snipe the bow | Visit MBJB |📔|
 | Ain Nur Annisa Binti Akhiruddin | Yuk Kenali Bola Jaring | Harta Tanah Strata - Cukai Tanah Atau Cukai Petak? |📔|
 | Ariyo Pradhuta Putra | Sport ON by PPI UTM | EnviRUNment Virtual Run |📔|
 | Chin San Kai | Young Employable Student (Yes!), We Are Ready! UTM Edition 2022 | Kathina Volunteer Event |📔|
 | Ebrahim Abdo Mohammed Gaber | Welcoming new students | Standing in the front line |📔|
-| Ellisya Binti Hasidan | Lads D'night | Visit MBJB |📔|
-| Faatihah Maisarah Binti Rejak Habib |  | |📔|
-| Fara Azean Bt Yusoff Anuar |  | |📔|
-| Fatin Nurdiana Binti Jayah |  | |📔|
+| Ellisya Binti Hasidan | Lads D'night 2022 | Visit MBJB |📔|
+| Faatihah Maisarah Binti Rejak Habib | Snipe the bow | Lads D’night 2022 |📔|
+| Fara Azean Bt Yusoff Anuar | FESKO Neon Run | Woodball |📔|
+| Fatin Nurdiana Binti Jayah | Student Representative Election Day | School Engangement Day 2022 |📔|
 | Hussein Dalmar Hussein |  | |📔|
 | Huud Mohamed Warsame |  | |📔|
 | Lai Kin Yong |  | |📔|
