@@ -22,22 +22,23 @@ In a group of 4 – 5 students, produce a 5 – 7 minute video presentation on t
 | Name | Activities 1 | Activities 2 | Report |
 | ----- | ----- | ----- | :------: | 
 | Abdimajid Gelle Awil | First Year Experience (Fye) | |📔|
+| Abdisamad Dayib Mohamed |  | |📔|
+| Abel Agustinus |  | |📔|
+| Afika Syamrina Binti Benamri |  | |📔|
+| Ain Nur Annisa Binti Akhiruddin |  | |📔|
+| Ariyo Pradhuta Putra |  | |📔|
+| Chin San Kai |  | |📔|
+| Ebrahim Abdo Mohammed Gaber |  | |📔|
+| Ellisya Binti Hasidan |  | |📔|
+| Faatihah Maisarah Binti Rejak Habib |  | |📔|
+| Fara Azean Bt Yusoff Anuar |  | |📔|
+| Fatin Nurdiana Binti Jayah |  | |📔|
+| Hussein Dalmar Hussein |  | |📔|
+| Huud Mohamed Warsame |  | |📔|
+| Lai Kin Yong |  | |📔|
 |  |  | |📔|
 |  |  | |📔|
-|  |  | |📔|
-|  |  | |📔|
-|  |  | |📔|
-|  |  | |📔|
-|  |  | |📔|
-|  |  | |📔|
-|  |  | |📔|
-|  |  | |📔|
-|  |  | |📔|
-|  |  | |📔|
-|  |  | |📔|
-|  |  | |📔|
-|  |  | |📔|
-|  |  | |📔|
+
 
 #### 🌟 Video
 
