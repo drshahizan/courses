@@ -21,8 +21,23 @@ In a group of 4 – 5 students, produce a 5 – 7 minute video presentation on t
 
 | Name | Activities 1 | Activities 2 | Report |
 | ----- | ----- | ----- | :------: | 
-| 1 | UTM Poetry SLAM | 📔 |
-
+| Abdimajid Gelle Awil | First Year Experience (Fye) | |📔|
+|  |  | |📔|
+|  |  | |📔|
+|  |  | |📔|
+|  |  | |📔|
+|  |  | |📔|
+|  |  | |📔|
+|  |  | |📔|
+|  |  | |📔|
+|  |  | |📔|
+|  |  | |📔|
+|  |  | |📔|
+|  |  | |📔|
+|  |  | |📔|
+|  |  | |📔|
+|  |  | |📔|
+|  |  | |📔|
 
 #### 🌟 Video
 
