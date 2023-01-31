@@ -45,13 +45,13 @@ Setiap kumpulan dikehendaki menghasilkan satu video pendek dengan kriteria berik
 
 ### Debat
 
-Persediaan
+**Persediaan**
 - Pastikan kumpulan anda ditugaskan di pihak mana.
 - Cari sebarang maklumat berkenaan topik anda dan pastikan maklumat anda berkaitan dengan skop topik tersebut.
 - Pilih hanya maklumat yang mempunyai kesahan/otoriti untuk menyokong hujah anda
 - Matlamat peserta debat adalah untuk membuat hujah yangmeyakinkan dengan cara yang sopan.
 
-Prosedur
+**Prosedur**
 - Wakil kumpulan yang membawa agenda kerajaan akan memulakan hujah pembukaan.
 - Wakil kumpulan yang membawa agenda pembangkang pula akan memulakan hujah pembukaan.
 - Ahli kumpulan yang lain perlu menyediakan hujah jawapan balas (counter argument) kepada hujah pembukaan pihak
