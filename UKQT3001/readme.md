@@ -14,10 +14,10 @@ The course is designed to ensure and recognise meaningful engagement of the stud
 
 ## Assignment 1 : Extra-curricular activities reflection reports
 Assignment 1 is an individual assignment. Students need to make self-reflection reports related to any TWO extra-curricular activities/ programs that not been chosen in the prerequisite for Extra-Curricular Experiential Learning (ExCEL) course registration. Students need to ensure that the selected activities/ programs are impactful in contributing to the development of their graduate attributes. However, students are allowed to chooseother extra-curricular activities/ programs that have greater impacts on the development oftheir graduate attributes.
+
 Students need to prepare TWO different reports for each selected extra-curricular activity/program. Reflection reports should follow the 5R framework for reflection format by Baiet al. (2002) which consists of the components of report, respond, relate, reason and reconstruct
 
-## Assignment 2 : Video Presentation on Case Study
-In a group of 4 – 5 students, produce a 5 – 7 minute video presentation on the proposal of an extracurricular activity/programme that can enhance UTM graduate attributes among students. The process can be started by reviewing the reflection of each group member to identify the attributes to be enhanced. Select 2 – 3 attributes that are suitable for one-day activity/programme. To add justification, one simple survey can be conducted on the target participants to obtain feedback related to the proposed activity/programme.
+#### 🌟 Reporting
 
 | Name | Activities 1 | Activities 2 | Report |
 | ----- | ----- | ----- | :------: | 
@@ -36,9 +36,25 @@ In a group of 4 – 5 students, produce a 5 – 7 minute video presentation on t
 | Hussein Dalmar Hussein |  | |📔|
 | Huud Mohamed Warsame |  | |📔|
 | Lai Kin Yong |  | |📔|
+| Mohammed Ahmed Mohammed Al-Batati |  | |📔|
+| Mohammed Faisal Edhah Magram |  | |📔|
+| Mohammed Salem Salah Ba Bakr |  | |📔|
+| Nisha Hazwani Binti Abd Rahim |  | |📔|
+| Nur Afifah Farzana Binti Mohd Azmi |  | |📔|
+| Nur Aida Syahmina |  | |📔|
+| Nur Athirah Binti Hairol |  | |📔|
+| Nur Elisa Binti Muzamir |  | |📔|
+| Nur Ellyana Nazreen Binti Razali |  | |📔|
+| Nur Fatin Khairiyah Binti Mohd Khirwan Sashithran |  | |📔|
+| Nur Thaqifah Aina Binti Mohd Zaidi |  | |📔|
 |  |  | |📔|
-|  |  | |📔|
+ 
+ 
+ 
 
+
+## Assignment 2 : Video Presentation on Case Study
+In a group of 4 – 5 students, produce a 5 – 7 minute video presentation on the proposal of an extracurricular activity/programme that can enhance UTM graduate attributes among students. The process can be started by reviewing the reflection of each group member to identify the attributes to be enhanced. Select 2 – 3 attributes that are suitable for one-day activity/programme. To add justification, one simple survey can be conducted on the target participants to obtain feedback related to the proposed activity/programme.
 
 #### 🌟 Video
 
