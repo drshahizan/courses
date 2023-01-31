@@ -54,8 +54,8 @@ Students need to prepare TWO different reports for each selected extra-curricula
 | Omar Mohammed Ali Al-Baagari | Balau Beach Cleaning | Welcoming Day |📔|
 | Ruzaini Rafiuddin Bin Rasmet | Malaysian University Sport Council (MASUM) Archery | Back In Action |📔|
 | Shanjida Mahmud Soha | A youth model campaign | Food distribution at KDSE during COVID |📔|
-| Sharifah Razan Binti Syed Abdullah |  | |📔|
-| Siti Hana Binti Omar |  | |📔|
+| Sharifah Razan Binti Syed Abdullah | Anugerah Kecemerlangan Pelajar (JAUHAR) | Majlis Apresiasi Latihan Mengajar |📔|
+| Siti Hana Binti Omar | Innovation of Robotic Project | Knowledge for Woman |📔|
 | Siti Nur Zahirah Binti Dahlan |  | |📔|
 | Siti Nuralwani Binti Zaidi |  | |📔|
 | Suphaklit Wangdee |  | |📔|
