@@ -52,9 +52,9 @@ Persediaan
 - Matlamat peserta debat adalah untuk membuat hujah yangmeyakinkan dengan cara yang sopan.
 
 Prosedur
-1. Wakil kumpulan yang membawa agenda kerajaan akan memulakan hujah pembukaan.
-2. Wakil kumpulan yang membawa agenda pembangkang pula akan memulakan hujah pembukaan.
-3. Ahli kumpulan yang lain perlu menyediakan hujah jawapan balas (counter argument) kepada hujah pembukaan pihak
+- Wakil kumpulan yang membawa agenda kerajaan akan memulakan hujah pembukaan.
+- Wakil kumpulan yang membawa agenda pembangkang pula akan memulakan hujah pembukaan.
+- Ahli kumpulan yang lain perlu menyediakan hujah jawapan balas (counter argument) kepada hujah pembukaan pihak
 lawan. 
 
 
