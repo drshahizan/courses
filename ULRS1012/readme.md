@@ -40,8 +40,7 @@ Setiap kumpulan dikehendaki menghasilkan satu video pendek dengan kriteria berik
 #### 🌟 Video
 | Kumpulan | Tajuk | Video |
 | ----- | ----- | :------: | 
-| AdMiPeQa | Air Flight Analysis | <a href="https://emoji.gg/emoji/YouTube"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a>
- |
+| AdMiPeQa | Air Flight Analysis | <a href="https://emoji.gg/emoji/YouTube"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 
 ### Debat
 
@@ -61,8 +60,7 @@ lawan.
 
 | Kumpulan | Tajuk | Video |
 | ----- | ----- | :------: | 
-| AdMiPeQa | Air Flight Analysis | <a href="https://emoji.gg/emoji/YouTube"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a>
- |
+| AdMiPeQa | Air Flight Analysis | <a href="https://emoji.gg/emoji/YouTube"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/courses/issues) for any improvements, suggestions or errors in the content.
