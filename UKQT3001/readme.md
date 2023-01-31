@@ -26,8 +26,8 @@ Students need to prepare TWO different reports for each selected extra-curricula
 | Abel Agustinus | Cultural Festival 2021 | Virtual Night Movie |📔|
 | Afika Syamrina Binti Benamri | Snipe The Bow | Visit MBJB |📔|
 | Ain Nur Annisa Binti Akhiruddin | Yuk Kenali Bola Jaring | Harta Tanah Strata - Cukai Tanah Atau Cukai Petak? |📔|
-| Ariyo Pradhuta Putra |  | |📔|
-| Chin San Kai |  | |📔|
+| Ariyo Pradhuta Putra | Sport ON by PPI UTM | EnviRUNment Virtual Run |📔|
+| Chin San Kai | Young Employable Student (Yes!), We Are Ready! UTM Edition 2022 | Kathina Volunteer Event |📔|
 | Ebrahim Abdo Mohammed Gaber |  | |📔|
 | Ellisya Binti Hasidan |  | |📔|
 | Faatihah Maisarah Binti Rejak Habib |  | |📔|
