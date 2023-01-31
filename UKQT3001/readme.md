@@ -46,9 +46,9 @@ Students need to prepare TWO different reports for each selected extra-curricula
 | Nur Elisa Binti Muzamir | Peharta School Attack 21 | Coding-Generation Programme 2021 (CGP’21)|📔|
 | Nur Ellyana Nazreen Binti Razali | Pengalaman bekerja di Zus Coffee, Setia Tropika | Lawatan ke Majlis Bandaraya Johor Bahru |📔|
 | Nur Fatin Khairiyah Binti Mohd Khirwan Sashithran | First Year Experience | 15th Pan Ocean Remote Sensing Conference (Porsec) 2022 |📔|
-| Nur Thaqifah Aina Binti Mohd Zaidi |  | |📔|
-| Nur Wahidah Binti Iskandar Amer Bukhorri |  | |📔|
-| Nur Yasmine Hanie Binti Mohd Yunus |  | |📔|
+| Nur Thaqifah Aina Binti Mohd Zaidi | Fesko Run | Fes Cook |📔|
+| Nur Wahidah Binti Iskandar Amer Bukhorri | KTF Kasih Ramadhan | Recruitment Camp 2022 |📔|
+| Nur Yasmine Hanie Binti Mohd Yunus | First Ever Part-Time Job | Snipe D’ Bow |📔|
 | Nurfarhani Yasmeen Binti Hanan |  | |📔|
 | Nurul Farah Syafina Binti Adnan |  | |📔|
 | Omar Mohammed Ali Al-Baagari |  | |📔|
