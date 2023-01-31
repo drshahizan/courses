@@ -7,7 +7,10 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Maklumat Kursus
+# ULRS1012: NILAI DAN JATI DIRI (VALUE AND IDENTITY)
+
+
+## Maklumat Kursus
 Kursus ini mengetengahkan teras utama UTM yang menjadi penggerak kepada modal insan yang
 kreatif dan inovatif untuk memenuhi keperluan negara pada masa hadapan. Teras utama tersebut
 adalah Integriti, Sinergi, Kecemerlangan dan Kelestarian (ISES – Integrity, Synergy, Excellence and
