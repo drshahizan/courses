@@ -35,7 +35,7 @@ Students need to prepare TWO different reports for each selected extra-curricula
 | Fatin Nurdiana Binti Jayah | Student Representative Election Day | School Engangement Day 2022 |📔|
 | Hussein Dalmar Hussein | KDOJ Culexc ’22 Cooking Show | First year experience |📔|
 | Huud Mohamed Warsame | Water safety awareness | How To Publish in High Impact Journals |📔|
-| Lai Kin Yong |  | |📔|
+| Lai Kin Yong |  | | |
 | Mohammed Ahmed Mohammed Al-Batati | Annual Election 2022 | Yemeni Olympic Day 2021-2022 |📔|
 | Mohammed Faisal Edhah Magram | Virtual Culture Corner 2.0 | Welcoming New Students |📔|
 | Mohammed Salem Salah Ba Bakr | Welcoming New Students | Forest City Trip |📔|
