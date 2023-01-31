@@ -42,10 +42,10 @@ Students need to prepare TWO different reports for each selected extra-curricula
 | Nisha Hazwani Binti Abd Rahim | Water Safety Campaign | Family Day Dr Adawiyah |📔|
 | Nur Afifah Farzana Binti Mohd Azmi | Jenga Mania | E-Pantun Merdeka |📔|
 | Nur Aida Syahmina | First Year Experience 2022 | 15th Pan Ocean Remote Sensing Conference (Porsec) 2022 |📔|
-| Nur Athirah Binti Hairol |  | |📔|
-| Nur Elisa Binti Muzamir |  | |📔|
-| Nur Ellyana Nazreen Binti Razali |  | |📔|
-| Nur Fatin Khairiyah Binti Mohd Khirwan Sashithran |  | |📔|
+| Nur Athirah Binti Hairol | Annual Grand Meeting | Khidmat Sosial |📔|
+| Nur Elisa Binti Muzamir | Peharta School Attack 21 | Coding-Generation Programme 2021 (CGP’21)|📔|
+| Nur Ellyana Nazreen Binti Razali | Pengalaman bekerja di Zus Coffee, Setia Tropika | Lawatan ke Majlis Bandaraya Johor Bahru |📔|
+| Nur Fatin Khairiyah Binti Mohd Khirwan Sashithran | First Year Experience | 15th Pan Ocean Remote Sensing Conference (Porsec) 2022 |📔|
 | Nur Thaqifah Aina Binti Mohd Zaidi |  | |📔|
 | Nur Wahidah Binti Iskandar Amer Bukhorri |  | |📔|
 | Nur Yasmine Hanie Binti Mohd Yunus |  | |📔|
