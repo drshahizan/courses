@@ -41,7 +41,7 @@ Students need to prepare TWO different reports for each selected extra-curricula
 | Mohammed Salem Salah Ba Bakr | Welcoming New Students | Forest City Trip |📔|
 | Nisha Hazwani Binti Abd Rahim | Water Safety Campaign | Family Day Dr Adawiyah |📔|
 | Nur Afifah Farzana Binti Mohd Azmi | Jenga Mania | E-Pantun Merdeka |📔|
-| Nur Aida Syahmina |  | |📔|
+| Nur Aida Syahmina | First Year Experience 2022 | 15th Pan Ocean Remote Sensing Conference (Porsec) 2022 |📔|
 | Nur Athirah Binti Hairol |  | |📔|
 | Nur Elisa Binti Muzamir |  | |📔|
 | Nur Ellyana Nazreen Binti Razali |  | |📔|
