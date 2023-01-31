@@ -9,7 +9,6 @@ Don't forget to hit the :star: if you like this repo.
 
 # ULRS1012: NILAI DAN JATI DIRI (VALUE AND IDENTITY)
 
-
 ## Maklumat Kursus
 Kursus ini mengetengahkan teras utama UTM yang menjadi penggerak kepada modal insan yang kreatif dan inovatif untuk memenuhi keperluan negara pada masa hadapan. Teras utama tersebut adalah Integriti, Sinergi, Kecemerlangan dan Kelestarian (ISES – Integrity, Synergy, Excellence and Sustainability). Konsep asas yang mendasari kursus ini adalah nilai integriti, nilai dan jati diri yang dapat membendung segala bentuk salah guna kuasa dalam kehidupan seharian serta dalam organisasi seperti rasuah; dan langkah-langkah pencegahan rasuah.
 
@@ -43,6 +42,14 @@ Setiap kumpulan dikehendaki menghasilkan satu video pendek dengan kriteria berik
 | Kumpulan | Tajuk | Video |
 | ----- | ----- | ------ | 
 | AdMiPeQa | Pandas | Dask | Koalas | Air Flight Analysis | [:octocat:](https://github.com/drshahizan/Python-big-data/tree/main/Project/AdMiPeQa) |
+
+### Debat
+
+Persediaan
+• Pastikan kumpulan anda ditugaskan di pihak mana.
+• Cari sebarang maklumat berkenaan topik anda dan pastikan maklumat anda berkaitan dengan skop topik tersebut.
+• Pilih hanya maklumat yang mempunyai kesahan/otoriti untuk menyokong hujah anda
+• Matlamat peserta debat adalah untuk membuat hujah yangmeyakinkan dengan cara yang sopan.
 
 
 ## Contribution 🛠️
