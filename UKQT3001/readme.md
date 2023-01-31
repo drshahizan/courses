@@ -62,8 +62,8 @@ Students need to prepare TWO different reports for each selected extra-curricula
 | Syaidatul Amira Binti Safee | Program Pertandingan Memanah "Snipe The Bow" | Program Penanaman Pokok Bakau |📔|
 | Tan Lin Quan | Archery MASUM | Tennis Webinar |📔|
 | Tan Yee Hui | Malaysian Youth Volunteering (MYV) Program | Fall National Induction Leadership (NILC) Conference |📔|
-| Yogeena A/P Anbunathan |  | |📔|
-| Zakariye Mohamed Ismail |  | |📔|
+| Yogeena A/P Anbunathan | Thalibun Ramadhan Series II | Leap Year Ponggal Festival (MTT2020) |📔|
+| Zakariye Mohamed Ismail | Futsal Tournament Program  | Water Safety Awareness Program |📔|
 
 ## Assignment 2 : Video Presentation on Case Study
 In a group of 4 – 5 students, produce a 5 – 7 minute video presentation on the proposal of an extracurricular activity/programme that can enhance UTM graduate attributes among students. The process can be started by reviewing the reflection of each group member to identify the attributes to be enhanced. Select 2 – 3 attributes that are suitable for one-day activity/programme. To add justification, one simple survey can be conducted on the target participants to obtain feedback related to the proposed activity/programme.
