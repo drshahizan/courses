@@ -36,7 +36,7 @@ Students need to prepare TWO different reports for each selected extra-curricula
 | Hussein Dalmar Hussein | KDOJ Culexc ’22 Cooking Show | First year experience |📔|
 | Huud Mohamed Warsame | Water safety awareness | How To Publish in High Impact Journals |📔|
 | Lai Kin Yong |  | |📔|
-| Mohammed Ahmed Mohammed Al-Batati |  | |📔|
+| Mohammed Ahmed Mohammed Al-Batati | Annual Election 2022 | Yemeni Olympic Day 2021-2022 |📔|
 | Mohammed Faisal Edhah Magram |  | |📔|
 | Mohammed Salem Salah Ba Bakr |  | |📔|
 | Nisha Hazwani Binti Abd Rahim |  | |📔|
