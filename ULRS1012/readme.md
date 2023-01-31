@@ -38,24 +38,12 @@ Setiap kumpulan dikehendaki menghasilkan satu video pendek dengan kriteria berik
     - 1 hingga 2 minit sahaja 
     - Masukkan disclaimer pada video (Video ini adalah bertujuan untuk tugasan kursus Nilai dan Jati Diri sahaja)
 
-### 🌟 Project: Solutions
+#### 🌟 Video
 
-| Team | Library 1 | Library 2 | Library 3 | Dataset |  Open in GitHub |
-| ----- | ----- | ------ | ------ |  ------ | :------: | 
+| Kumpulan | Tajuk | Video |
+| ----- | ----- | ------ | 
 | AdMiPeQa | Pandas | Dask | Koalas | Air Flight Analysis | [:octocat:](https://github.com/drshahizan/Python-big-data/tree/main/Project/AdMiPeQa) |
-| BigMac | Vaex | Koalas | PySpark | Airline Delay and Cancellation Data 2016 - 2018| [:octocat:](https://github.com/drshahizan/Python-big-data/tree/main/Project/BigMac) |
-| Fantom | 1 | 2 | 3 | Dataset | [:octocat:](https://) |
-| KIA | 1 | 2 | 3 | Dataset | [:octocat:](https://) |
-| No Name | Pandas | PySpark | Koalas | Amazon Book Review | [:octocat:](https://github.com/drshahizan/Python-big-data/tree/main/Project/No%20Name) |
-| Phantom Crew | 1 | 2 | 3 | Dataset | [:octocat:](https://) |
-| QUAD | Polars | Koalas | Datatable | NYC yellow taxi trip data | [:octocat:](https://) |
-| QwQ | Koalas | Pyspark | Dask | NYC Automated Traffic Volume Counts | [:octocat:](https://github.com/drshahizan/Python-big-data/tree/main/Project/QwQ) |
-| Rojak | Pandas | Vaex | Modin | 15 Million Chess Games from Lichess (2013-2014) | [:octocat:](https://github.com/drshahizan/Python-big-data/tree/main/Project/Rojak) |
-| SDS | Pandas | Polars | Koalas | Analysis of Amazon Books Review | [:octocat:](https://github.com/drshahizan/Python-big-data/tree/main/Project/SDS) |
-| SIX | Dask | Pyspark | Koalas | NYC Parking Tickets | [:octocat:](https://github.com/drshahizan/Python-big-data/tree/main/Project/SIX) |
-| SamVerse | Pandas | PySpark | Koalas | Spotify Charts | [:octocat:](https://github.com/drshahizan/Python-big-data/tree/main/Project/SamVerse) |
-| Sepuluh | Pyspark | Polars | Pandas | Airline Delay and Cancellation Data 2017 - 2018 | [:octocat:](https://github.com/drshahizan/Python-big-data/blob/main/Project/Sepuluh/Airline_Delay_and_Cancellation_Data_2017_2018.ipynb) |
-| High Five | Pandas | Koalas | Modin | Airline Delay and Cancellation Data 2015 - 2016 | [:octocat:](https://github.com/drshahizan/Python-big-data/blob/04a7c0132d3b9fb0add4101c6072796e514260df/Project/High%20Five/ProjectHPDP_GroupHighFive.ipynb) |
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/courses/issues) for any improvements, suggestions or errors in the content.
