@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 
 # UKQT3001-16: PENGALAMAN PEMBELAJARAN LUAR KURIKULUM (EXTRA-CURRICULAR EXPERIENTIAL LEARNING)
 
-## Maklumat Kursus
+## Course Information
 The course is designed to ensure and recognise meaningful engagement of the students in the extracurricular activities. Indirectly, this process can encourage students to better appreciateand value the educational processes that take place. Most importantly, this course is offered with the aims to complement the University’s academic curriculum and to augment thestudents’ learning experience. This course will utilise the experiential learning, self-reflection, and group project-based learning approaches in the learning and teaching process.
 
 ## Contribution 🛠️
