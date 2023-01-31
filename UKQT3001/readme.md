@@ -23,8 +23,8 @@ Students need to prepare TWO different reports for each selected extra-curricula
 | ----- | ----- | ----- | :------: | 
 | Abdimajid Gelle Awil | SPE UTM Company Day | UTM International Somali Society Futsal Tournament |📔|
 | Abdisamad Dayib Mohamed | Jawatankuasa Kolej Mahasiswa Kolej Datin Seri Endon | SPE-UTM SC Career Workshop |📔|
-| Abel Agustinus |  | |📔|
-| Afika Syamrina Binti Benamri |  | |📔|
+| Abel Agustinus | Cultural Festival 2021 | Virtual Night Movie |📔|
+| Afika Syamrina Binti Benamri | Snipe The Bow | Visit MBJB |📔|
 | Ain Nur Annisa Binti Akhiruddin |  | |📔|
 | Ariyo Pradhuta Putra |  | |📔|
 | Chin San Kai |  | |📔|
