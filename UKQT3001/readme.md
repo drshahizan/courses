@@ -47,11 +47,23 @@ Students need to prepare TWO different reports for each selected extra-curricula
 | Nur Ellyana Nazreen Binti Razali |  | |📔|
 | Nur Fatin Khairiyah Binti Mohd Khirwan Sashithran |  | |📔|
 | Nur Thaqifah Aina Binti Mohd Zaidi |  | |📔|
-|  |  | |📔|
- 
- 
- 
-
+| Nur Wahidah Binti Iskandar Amer Bukhorri |  | |📔|
+| Nur Yasmine Hanie Binti Mohd Yunus |  | |📔|
+| Nurfarhani Yasmeen Binti Hanan |  | |📔|
+| Nurul Farah Syafina Binti Adnan |  | |📔|
+| Omar Mohammed Ali Al-Baagari |  | |📔|
+| Ruzaini Rafiuddin Bin Rasmet |  | |📔|
+| Shanjida Mahmud Soha |  | |📔|
+| Sharifah Razan Binti Syed Abdullah |  | |📔|
+| Siti Hana Binti Omar |  | |📔|
+| Siti Nur Zahirah Binti Dahlan |  | |📔|
+| Siti Nuralwani Binti Zaidi |  | |📔|
+| Suphaklit Wangdee |  | |📔|
+| Syaidatul Amira Binti Safee |  | |📔|
+| Tan Lin Quan |  | |📔|
+| Tan Yee Hui |  | |📔|
+| Yogeena A/P Anbunathan |  | |📔|
+| Zakariye Mohamed Ismail |  | |📔|
 
 ## Assignment 2 : Video Presentation on Case Study
 In a group of 4 – 5 students, produce a 5 – 7 minute video presentation on the proposal of an extracurricular activity/programme that can enhance UTM graduate attributes among students. The process can be started by reviewing the reflection of each group member to identify the attributes to be enhanced. Select 2 – 3 attributes that are suitable for one-day activity/programme. To add justification, one simple survey can be conducted on the target participants to obtain feedback related to the proposed activity/programme.
