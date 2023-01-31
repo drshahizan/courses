@@ -16,7 +16,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Programming Technique III: ASP.NET](https://github.com/drshahizan/learn-aspnet)
 - [Web Programming - PHP](https://github.com/drshahizan/learn-php)
 - [Extra-Curricular Experiential Learning](https://github.com/drshahizan/courses/blob/main/UKQT3001/readme.md)
-- [Value And Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)
+- [Value and Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/courses/issues) for any improvements, suggestions or errors in the content.
