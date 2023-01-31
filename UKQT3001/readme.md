@@ -72,15 +72,15 @@ In a group of 4 – 5 students, produce a 5 – 7 minute video presentation on t
 
 | Group | Title | Video |
 | ----- | ----- | :------: | 
-| 1 | UTM Poetry SLAM | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 2 | Choose charity, choose love | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 3 | Volunteering for homeless | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 4 | Handcraft workshop | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 5 | Food Drive Charity | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 6 | Misi banjir | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 1 | UTM Poetry SLAM |  |
+| 2 | Choose charity, choose love | <a href="https://youtu.be/jZJVBRBmTD8"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 3 | Volunteering for homeless |  |
+| 4 | Handcraft workshop |  |
+| 5 | Food Drive Charity |  |
+| 6 | Misi banjir | |
 | 7 | Let the sunshine in | <a href="https://youtu.be/y5qyerjoz44"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 8 | Hari Sukan Berirama | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 9 | Arabic Culture Day | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 8 | Hari Sukan Berirama |  |
+| 9 | Arabic Culture Day |  |
 
 
 ## Contribution 🛠️
