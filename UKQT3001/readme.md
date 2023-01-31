@@ -21,8 +21,8 @@ Students need to prepare TWO different reports for each selected extra-curricula
 
 | Name | Activities 1 | Activities 2 | Report |
 | ----- | ----- | ----- | :------: | 
-| Abdimajid Gelle Awil | First Year Experience (Fye) | |📔|
-| Abdisamad Dayib Mohamed |  | |📔|
+| Abdimajid Gelle Awil | SPE UTM Company Day | UTM International Somali Society Futsal Tournament |📔|
+| Abdisamad Dayib Mohamed | Jawatankuasa Kolej Mahasiswa Kolej Datin Seri Endon | SPE-UTM SC Career Workshop |📔|
 | Abel Agustinus |  | |📔|
 | Afika Syamrina Binti Benamri |  | |📔|
 | Ain Nur Annisa Binti Akhiruddin |  | |📔|
