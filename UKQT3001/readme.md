@@ -19,6 +19,11 @@ Students need to prepare TWO different reports for each selected extra-curricula
 ## Assignment 2 : Video Presentation on Case Study
 In a group of 4 – 5 students, produce a 5 – 7 minute video presentation on the proposal of an extracurricular activity/programme that can enhance UTM graduate attributes among students. The process can be started by reviewing the reflection of each group member to identify the attributes to be enhanced. Select 2 – 3 attributes that are suitable for one-day activity/programme. To add justification, one simple survey can be conducted on the target participants to obtain feedback related to the proposed activity/programme.
 
+| Name | Activities 1 | Activities 2 | Report |
+| ----- | ----- | ----- | :------: | 
+| 1 | UTM Poetry SLAM | 📔 |
+
+
 #### 🌟 Video
 
 | Group | Title | Video |
