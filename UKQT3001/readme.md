@@ -12,6 +12,10 @@ Don't forget to hit the :star: if you like this repo.
 ## Course Information
 The course is designed to ensure and recognise meaningful engagement of the students in the extracurricular activities. Indirectly, this process can encourage students to better appreciateand value the educational processes that take place. Most importantly, this course is offered with the aims to complement the University’s academic curriculum and to augment thestudents’ learning experience. This course will utilise the experiential learning, self-reflection, and group project-based learning approaches in the learning and teaching process.
 
+## Assignment 1 : Extra-curricular activities reflection reports
+Assignment 1 is an individual assignment. Students need to make self-reflection reports related to any TWO extra-curricular activities/ programs that not been chosen in the prerequisite for Extra-Curricular Experiential Learning (ExCEL) course registration. Students need to ensure that the selected activities/ programs are impactful in contributing to the development of their graduate attributes. However, students are allowed to chooseother extra-curricular activities/ programs that have greater impacts on the development oftheir graduate attributes.
+Students need to prepare TWO different reports for each selected extra-curricular activity/program. Reflection reports should follow the 5R framework for reflection format by Baiet al. (2002) which consists of the components of report, respond, relate, reason and reconstruct
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/courses/issues) for any improvements, suggestions or errors in the content.
 
