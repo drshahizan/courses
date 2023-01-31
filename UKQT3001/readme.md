@@ -38,9 +38,9 @@ Students need to prepare TWO different reports for each selected extra-curricula
 | Lai Kin Yong |  | |📔|
 | Mohammed Ahmed Mohammed Al-Batati | Annual Election 2022 | Yemeni Olympic Day 2021-2022 |📔|
 | Mohammed Faisal Edhah Magram | Virtual Culture Corner 2.0 | Welcoming New Students |📔|
-| Mohammed Salem Salah Ba Bakr |  | |📔|
-| Nisha Hazwani Binti Abd Rahim |  | |📔|
-| Nur Afifah Farzana Binti Mohd Azmi |  | |📔|
+| Mohammed Salem Salah Ba Bakr | Welcoming New Students | Forest City Trip |📔|
+| Nisha Hazwani Binti Abd Rahim | Water Safety Campaign | Family Day Dr Adawiyah |📔|
+| Nur Afifah Farzana Binti Mohd Azmi | Jenga Mania | E-Pantun Merdeka |📔|
 | Nur Aida Syahmina |  | |📔|
 | Nur Athirah Binti Hairol |  | |📔|
 | Nur Elisa Binti Muzamir |  | |📔|
