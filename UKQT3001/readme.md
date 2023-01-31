@@ -80,7 +80,7 @@ In a group of 4 – 5 students, produce a 5 – 7 minute video presentation on t
 | 6 | Misi banjir | |
 | 7 | Let the sunshine in | <a href="https://youtu.be/y5qyerjoz44"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 | 8 | Hari Sukan Berirama |  |
-| 9 | Arabic Culture Day |  |
+| 9 | Arabic Culture Day | <a href="https://www.youtube.com/watch?v=8zaIw01lk9U"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 
 
 ## Contribution 🛠️
