@@ -71,7 +71,7 @@ In a group of 4 – 5 students, produce a 5 – 7 minute video presentation on t
 #### 🌟 Video
 
 | Group | Title | Video |
-| ----- | ----- | :------: | 
+| -----: | ----- | :------: | 
 | 1 | UTM Poetry SLAM |  |
 | 2 | Choose charity, choose love | <a href="https://youtu.be/jZJVBRBmTD8"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 | 3 | Volunteering for homeless |  |
