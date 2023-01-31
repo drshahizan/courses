@@ -38,10 +38,10 @@ Setiap kumpulan dikehendaki menghasilkan satu video pendek dengan kriteria berik
     - Masukkan disclaimer pada video (Video ini adalah bertujuan untuk tugasan kursus Nilai dan Jati Diri sahaja)
 
 #### 🌟 Video
-
+<a href="https://emoji.gg/emoji/YouTube"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="32px" height="32px" alt="YouTube"></a>
 | Kumpulan | Tajuk | Video |
-| ----- | ----- | ------ | 
-| AdMiPeQa | Air Flight Analysis | [:octocat:](https://) |
+| ----- | ----- | :------: | 
+| AdMiPeQa | Air Flight Analysis | [:stayhome:](https:/) |
 
 ### Debat
 
@@ -60,8 +60,8 @@ lawan.
 #### 🌟 Video
 
 | Kumpulan | Tajuk | Video |
-| ----- | ----- | ------ | 
-| AdMiPeQa | Air Flight Analysis | [:octocat:](https:/) |
+| ----- | ----- | :------: | 
+| AdMiPeQa | Air Flight Analysis | [:yt:](https:/) |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/courses/issues) for any improvements, suggestions or errors in the content.
