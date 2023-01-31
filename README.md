@@ -1,9 +1,9 @@
-<a href="https://github.com/drshahizan/learn-php/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/learn-php" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/learn-php/network/members"><img src="https://img.shields.io/github/forks/drshahizan/learn-php" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/learn-php/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/learn-php" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/learn-php/issues"><img src="https://img.shields.io/github/issues/drshahizan/learn-php" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/learn-php/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/learn-php?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/learn-php)
+<a href="https://github.com/drshahizan/courses/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/courses" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/courses/network/members"><img src="https://img.shields.io/github/forks/drshahizan/courses" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/courses/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/courses" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/courses/issues"><img src="https://img.shields.io/github/issues/drshahizan/courses" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/courses/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/courses?color=2b9348"></a>
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/courses)
 
 Don't forget to hit the :star: if you like this repo.
 
