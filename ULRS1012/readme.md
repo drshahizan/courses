@@ -22,7 +22,18 @@ Kursus ini juga menekankan kepentingan sistem nilai dan etika, yang merangkumi a
 - Pelajar perlu memahami dan membincangkan secara kritikal dan lengkap tentang senario yang dibincangkan melalui setiap elemen SWOT. Pelajar perlu mencadangkan strategi yang sangat relevan dan berdasarkan penilaiaan yang analitik yang intensif.
 
 ### Penghasilan Video : Public Survice Announcement 
-Setiap kumpulan dikehendaki menghasilkan satu video pendek dengan kriteria berikut: 1. Durasi 1 sehingga 2 minit sahaja 2. Pelajar bebas menggunakan apa-apa sumber digital untuk menghasilkan video. 3. Bentuk persembahan video adalah bebas: i. Boleh menggunakan powtoon atau apa-apa bentuk animasi. ii. Ahli kumpulan boleh berlakon iii. Atau apa-apa bentuk yang boleh menyampaikan maklumat yang telah dipelajari dari topik minggu 1 hingga minggu 14 4. Setiap video di upload ke youtube dan dihantar dalam bentuk link sahaja 5. Syarat penghasilan video: 1. Mengikut kreativiti masing-masing 2. Menutup aurat 3. Tiada gambar yang menjolok mata 4. Latar muzik/latar suara yang bersesuaian 5. 1 hingga 2 minit sahaja 6. Masukkan disclaimer pada video (Video ini adalah bertujuan untuk tugasan kursus Nilai dan Jati Diri sahaja)
+Setiap kumpulan dikehendaki menghasilkan satu video pendek dengan kriteria berikut: 
+1. Durasi 1 sehingga 2 minit sahaja 
+2. Pelajar bebas menggunakan apa-apa sumber digital untuk menghasilkan video. 
+3. Bentuk persembahan video adalah bebas: i. Boleh menggunakan powtoon atau apa-apa bentuk animasi. ii. Ahli kumpulan boleh berlakon iii. Atau apa-apa bentuk yang boleh menyampaikan maklumat yang telah dipelajari dari topik minggu 1 hingga minggu 14 
+4. Setiap video di upload ke youtube dan dihantar dalam bentuk link sahaja 
+5. Syarat penghasilan video: 
+    - Mengikut kreativiti masing-masing 
+    - Menutup aurat 
+    - Tiada gambar yang menjolok mata 
+    - Latar muzik/latar suara yang bersesuaian 
+    - 1 hingga 2 minit sahaja 
+    - Masukkan disclaimer pada video (Video ini adalah bertujuan untuk tugasan kursus Nilai dan Jati Diri sahaja)
 
 
 ### 🌟 Project: Solutions
