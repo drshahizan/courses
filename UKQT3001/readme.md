@@ -33,8 +33,8 @@ Students need to prepare TWO different reports for each selected extra-curricula
 | Faatihah Maisarah Binti Rejak Habib | Snipe the bow | Lads D’night 2022 |📔|
 | Fara Azean Bt Yusoff Anuar | FESKO Neon Run | Woodball |📔|
 | Fatin Nurdiana Binti Jayah | Student Representative Election Day | School Engangement Day 2022 |📔|
-| Hussein Dalmar Hussein |  | |📔|
-| Huud Mohamed Warsame |  | |📔|
+| Hussein Dalmar Hussein | KDOJ Culexc ’22 Cooking Show | First year experience |📔|
+| Huud Mohamed Warsame | Water safety awareness | How To Publish in High Impact Journals |📔|
 | Lai Kin Yong |  | |📔|
 | Mohammed Ahmed Mohammed Al-Batati |  | |📔|
 | Mohammed Faisal Edhah Magram |  | |📔|
