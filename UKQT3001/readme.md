@@ -49,11 +49,11 @@ Students need to prepare TWO different reports for each selected extra-curricula
 | Nur Thaqifah Aina Binti Mohd Zaidi | Fesko Run | Fes Cook |📔|
 | Nur Wahidah Binti Iskandar Amer Bukhorri | KTF Kasih Ramadhan | Recruitment Camp 2022 |📔|
 | Nur Yasmine Hanie Binti Mohd Yunus | First Ever Part-Time Job | Snipe D’ Bow |📔|
-| Nurfarhani Yasmeen Binti Hanan |  | |📔|
-| Nurul Farah Syafina Binti Adnan |  | |📔|
-| Omar Mohammed Ali Al-Baagari |  | |📔|
-| Ruzaini Rafiuddin Bin Rasmet |  | |📔|
-| Shanjida Mahmud Soha |  | |📔|
+| Nurfarhani Yasmeen Binti Hanan | PORAM'22 | SRC ADVENTURE 21/22 |📔|
+| Nurul Farah Syafina Binti Adnan | Peharta School Attack 21 | Thalibun Ramadhan Siri 1 |📔|
+| Omar Mohammed Ali Al-Baagari | Balau Beach Cleaning | Welcoming Day |📔|
+| Ruzaini Rafiuddin Bin Rasmet | Malaysian University Sport Council (MASUM) Archery | Back In Action |📔|
+| Shanjida Mahmud Soha | A youth model campaign | Food distribution at KDSE during COVID |📔|
 | Sharifah Razan Binti Syed Abdullah |  | |📔|
 | Siti Hana Binti Omar |  | |📔|
 | Siti Nur Zahirah Binti Dahlan |  | |📔|
