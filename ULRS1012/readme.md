@@ -41,7 +41,7 @@ Setiap kumpulan dikehendaki menghasilkan satu video pendek dengan kriteria berik
 | Kumpulan | Tajuk | Video |
 | :-----: | ----- | :------: | 
 | 1 | Apa itu rasuah? | <a href="https://youtu.be/4UhrcrsZS4A"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 2 |  | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 2 |  |  |
 | 3 | Rasuah atau Maruah? | <a href="https://youtu.be/UI7e545RmUE"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 | 4 |  | <a href="https://youtu.be/koTb9c51aiU"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 | 5 | Rasuah dihina, maruah dibina | <a href="https://youtu.be/nrhcbDZAqWU"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
