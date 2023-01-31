@@ -39,8 +39,16 @@ Setiap kumpulan dikehendaki menghasilkan satu video pendek dengan kriteria berik
 
 #### 🌟 Video
 | Kumpulan | Tajuk | Video |
-| ----- | ----- | :------: | 
-| AdMiPeQa | Air Flight Analysis | <a href="https://emoji.gg/emoji/YouTube"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| :-----: | ----- | :------: | 
+| 1 | Apa itu rasuah? | <a href="https://www.youtube.com/watch?v=4UhrcrsZS4A"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 2 |  | <a href="https://www.youtube.com/watch?v=4UhrcrsZS4A"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 3 |  | <a href="https://www.youtube.com/watch?v=4UhrcrsZS4A"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 4 |  | <a href="https://www.youtube.com/watch?v=4UhrcrsZS4A"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 5 |  | <a href="https://www.youtube.com/watch?v=4UhrcrsZS4A"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 6 |  | <a href="https://www.youtube.com/watch?v=4UhrcrsZS4A"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 7 |  | <a href="https://www.youtube.com/watch?v=4UhrcrsZS4A"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 8 |  | <a href="https://www.youtube.com/watch?v=4UhrcrsZS4A"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 9 |  | <a href="https://www.youtube.com/watch?v=4UhrcrsZS4A"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 
 ### Debat
 
