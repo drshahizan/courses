@@ -25,7 +25,7 @@ Students need to prepare TWO different reports for each selected extra-curricula
 | Abdisamad Dayib Mohamed | Jawatankuasa Kolej Mahasiswa Kolej Datin Seri Endon | SPE-UTM SC Career Workshop |📔|
 | Abel Agustinus | Cultural Festival 2021 | Virtual Night Movie |📔|
 | Afika Syamrina Binti Benamri | Snipe The Bow | Visit MBJB |📔|
-| Ain Nur Annisa Binti Akhiruddin |  | |📔|
+| Ain Nur Annisa Binti Akhiruddin | Yuk Kenali Bola Jaring | Harta Tanah Strata - Cukai Tanah Atau Cukai Petak? |📔|
 | Ariyo Pradhuta Putra |  | |📔|
 | Chin San Kai |  | |📔|
 | Ebrahim Abdo Mohammed Gaber |  | |📔|
