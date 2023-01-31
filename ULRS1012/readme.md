@@ -41,7 +41,7 @@ Setiap kumpulan dikehendaki menghasilkan satu video pendek dengan kriteria berik
 
 | Kumpulan | Tajuk | Video |
 | ----- | ----- | ------ | 
-| AdMiPeQa | Pandas | Dask | Koalas | Air Flight Analysis | [:octocat:](https://github.com/drshahizan/Python-big-data/tree/main/Project/AdMiPeQa) |
+| AdMiPeQa | Air Flight Analysis | [:octocat:](https://) |
 
 ### Debat
 
@@ -57,6 +57,11 @@ Setiap kumpulan dikehendaki menghasilkan satu video pendek dengan kriteria berik
 - Ahli kumpulan yang lain perlu menyediakan hujah jawapan balas (counter argument) kepada hujah pembukaan pihak
 lawan. 
 
+#### 🌟 Video
+
+| Kumpulan | Tajuk | Video |
+| ----- | ----- | ------ | 
+| AdMiPeQa | Air Flight Analysis | [:octocat:](https:/) |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/courses/issues) for any improvements, suggestions or errors in the content.
