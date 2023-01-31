@@ -28,8 +28,8 @@ Students need to prepare TWO different reports for each selected extra-curricula
 | Ain Nur Annisa Binti Akhiruddin | Yuk Kenali Bola Jaring | Harta Tanah Strata - Cukai Tanah Atau Cukai Petak? |📔|
 | Ariyo Pradhuta Putra | Sport ON by PPI UTM | EnviRUNment Virtual Run |📔|
 | Chin San Kai | Young Employable Student (Yes!), We Are Ready! UTM Edition 2022 | Kathina Volunteer Event |📔|
-| Ebrahim Abdo Mohammed Gaber |  | |📔|
-| Ellisya Binti Hasidan |  | |📔|
+| Ebrahim Abdo Mohammed Gaber | Welcoming new students | Standing in the front line |📔|
+| Ellisya Binti Hasidan | Lads D'night | Visit MBJB |📔|
 | Faatihah Maisarah Binti Rejak Habib |  | |📔|
 | Fara Azean Bt Yusoff Anuar |  | |📔|
 | Fatin Nurdiana Binti Jayah |  | |📔|
