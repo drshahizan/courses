@@ -40,15 +40,16 @@ Setiap kumpulan dikehendaki menghasilkan satu video pendek dengan kriteria berik
 #### 🌟 Video
 | Kumpulan | Tajuk | Video |
 | :-----: | ----- | :------: | 
-| 1 | Apa itu rasuah? | <a href="https://www.youtube.com/watch?v=4UhrcrsZS4A"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 2 |  | <a href="https://www.youtube.com/watch?v=4UhrcrsZS4A"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 3 |  | <a href="https://www.youtube.com/watch?v=4UhrcrsZS4A"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 4 |  | <a href="https://www.youtube.com/watch?v=4UhrcrsZS4A"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 5 |  | <a href="https://www.youtube.com/watch?v=4UhrcrsZS4A"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 6 |  | <a href="https://www.youtube.com/watch?v=4UhrcrsZS4A"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 7 |  | <a href="https://www.youtube.com/watch?v=4UhrcrsZS4A"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 8 |  | <a href="https://www.youtube.com/watch?v=4UhrcrsZS4A"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 9 |  | <a href="https://www.youtube.com/watch?v=4UhrcrsZS4A"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 1 | Apa itu rasuah? | <a href="https://youtu.be/4UhrcrsZS4A"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 2 |  | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 3 |  | <a href="https://youtu.be/UI7e545RmUE"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 4 |  | <a href="https://youtu.be/koTb9c51aiU"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 5 |  | <a href="https://youtu.be/nrhcbDZAqWU"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 6 |  | <a href="https://youtu.be/eeb850X8-00"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 7 |  | <a href="https://youtu.be/KHKhuaNE_2k"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 8 |  | <a href="https://youtu.be/jy2MCgrdjD4"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 9 |  | <a href="https://youtu.be/Q9PWCiWMnzU"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+
 
 ### Debat
 
