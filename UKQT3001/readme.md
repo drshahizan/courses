@@ -37,7 +37,7 @@ Students need to prepare TWO different reports for each selected extra-curricula
 | Huud Mohamed Warsame | Water safety awareness | How To Publish in High Impact Journals |📔|
 | Lai Kin Yong |  | |📔|
 | Mohammed Ahmed Mohammed Al-Batati | Annual Election 2022 | Yemeni Olympic Day 2021-2022 |📔|
-| Mohammed Faisal Edhah Magram |  | |📔|
+| Mohammed Faisal Edhah Magram | Virtual Culture Corner 2.0 | Welcoming New Students |📔|
 | Mohammed Salem Salah Ba Bakr |  | |📔|
 | Nisha Hazwani Binti Abd Rahim |  | |📔|
 | Nur Afifah Farzana Binti Mohd Azmi |  | |📔|
