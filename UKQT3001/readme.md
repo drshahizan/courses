@@ -72,16 +72,16 @@ In a group of 4 – 5 students, produce a 5 – 7 minute video presentation on t
 
 | Group | Title | Video |
 | -----: | ----- | :------: | 
-| 1 | UTM Poetry SLAM |  |
+| 1 | UTM Poetry SLAM | <a href="https://youtu.be/-ofukIkr3X8"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 | 2 | Choose charity, choose love | <a href="https://youtu.be/jZJVBRBmTD8"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 3 | Volunteering for homeless |  |
-| 4 | Handcraft workshop |  |
-| 5 | Food Drive Charity |  |
-| 6 | Misi banjir | |
+| 3 | Volunteering for homeless | <a href="https://youtu.be/CWXmJmS1WpU"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 4 | Handcraft workshop | <a href="https://youtu.be/jNIbiYHpjFI"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 5 | Food Drive Charity | <a href="https://youtu.be/F3OAQoZG53M"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 6 | Misi banjir | <a href="https://youtu.be/BbT5tIK8yVQ"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 | 7 | Let the sunshine in | <a href="https://youtu.be/y5qyerjoz44"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 8 | Hari Sukan Berirama |  |
-| 9 | Arabic Culture Day | <a href="https://www.youtube.com/watch?v=8zaIw01lk9U"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 10 | UTM Multicultural Night 2023 |  |
+| 8 | Hari Sukan Berirama | <a href="https://youtu.be/xlrCx7NmHAA"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a>  |
+| 9 | Arabic Culture Day | <a href="https://youtu.be/8zaIw01lk9U"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 10 | UTM Multicultural Night 2023 | <a href="https://youtu.be/94BcZ_xHrx0"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/courses/issues) for any improvements, suggestions or errors in the content.
