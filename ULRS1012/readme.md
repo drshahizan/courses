@@ -69,7 +69,7 @@ lawan.
 
 | Kumpulan | Tajuk | Video |
 | :-----: | ----- | :------: | 
-| 1 |  | <a href="https://youtu.be/V4YHV8BjALs"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 1 | Debat bidaan melibatkan ahli keluarga | <a href="https://youtu.be/V4YHV8BjALs"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 | 2 | Penilaian kumpulan | <a href="https://youtu.be/KRMGKWjSGKE"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 | 3 | Kemerosotan sifat bahan | <a href="https://youtu.be/_1li0bPaz-k"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 | 4 |  | <a href="https://youtu.be/3-BEpndxKtQ"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
