@@ -68,16 +68,16 @@ lawan.
 #### 🌟 Video
 
 | Kumpulan | Tajuk | Video |
-| ----- | ----- | :------: | 
-| 1 |  | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 2 | Penilaian kumpulan | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 3 | Kemerosotan sifat bahan | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 4 |  | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 5 | 'Bad Unit' perlu diperbaiki | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 6 |  | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 7 |  | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 8 | Penilaian kumpulan  | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 9 | Penilaian kumpulan | <a href=""><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| :-----: | ----- | :------: | 
+| 1 |  | <a href="https://youtu.be/V4YHV8BjALs"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 2 | Penilaian kumpulan | <a href="https://youtu.be/KRMGKWjSGKE"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 3 | Kemerosotan sifat bahan | <a href="https://youtu.be/_1li0bPaz-k"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 4 |  | <a href="https://youtu.be/3-BEpndxKtQ"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 5 | 'Bad Unit' perlu diperbaiki | <a href="https://youtu.be/SsKVOH4mS00"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 6 |  | <a href="https://youtu.be/WX4-EsP8WS8"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 7 |  | <a href="https://youtu.be/8K7swOrflJY"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 8 | Penilaian kumpulan  | <a href="https://youtu.be/D2nuaSklz4Q"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 9 | Penilaian kumpulan | <a href="https://youtu.be/QsQyi7yAt5M"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/courses/issues) for any improvements, suggestions or errors in the content.
