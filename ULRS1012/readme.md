@@ -74,7 +74,7 @@ lawan.
 | 3 | Kemerosotan sifat bahan | <a href="https://youtu.be/_1li0bPaz-k"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 | 4 | Bahan kimia & toksik | <a href="https://youtu.be/3-BEpndxKtQ"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 | 5 | 'Bad Unit' perlu diperbaiki | <a href="https://youtu.be/SsKVOH4mS00"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 6 |  | <a href="https://youtu.be/WX4-EsP8WS8"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 6 | Sel kanser | <a href="https://youtu.be/WX4-EsP8WS8"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 | 7 |  | <a href="https://youtu.be/8K7swOrflJY"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 | 8 | Penilaian kumpulan  | <a href="https://youtu.be/D2nuaSklz4Q"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 | 9 | Penilaian kumpulan | <a href="https://youtu.be/QsQyi7yAt5M"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
