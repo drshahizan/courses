@@ -78,7 +78,7 @@ In a group of 4 – 5 students, produce a 5 – 7 minute video presentation on t
 | 4 | Handcraft workshop | <a href="https://youtu.be/jNIbiYHpjFI"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 | 5 | Food Drive Charity | <a href="https://youtu.be/z9iG5jqumG4"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 | 6 | Misi banjir | <a href="https://youtu.be/BbT5tIK8yVQ"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 7 | Let the sunshine in | <a href="https://youtu.be/y5qyerjoz44"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 7 | Let the sunshine in | <a href="https://youtu.be/R5LCFHRIJoc"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 | 8 | Hari Sukan Berirama | <a href="https://youtu.be/xlrCx7NmHAA"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a>  |
 | 9 | Arabic Culture Day | <a href="https://youtu.be/8zaIw01lk9U"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 | 10 | UTM Multicultural Night 2023 | <a href="https://youtu.be/94BcZ_xHrx0"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
