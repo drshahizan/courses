@@ -17,6 +17,8 @@ Assignment 1 is an individual assignment. Students need to make self-reflection 
 
 Students need to prepare TWO different reports for each selected extra-curricular activity/program. Reflection reports should follow the 5R framework for reflection format by Baiet al. (2002) which consists of the components of report, respond, relate, reason and reconstruct
 
+[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
+
 #### 🌟 Reporting
 
 | Name | Activities 1 | Activities 2 | Report |
