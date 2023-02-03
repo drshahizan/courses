@@ -23,15 +23,15 @@ Students need to prepare TWO different reports for each selected extra-curricula
 | ----- | ----- | ----- | :------: | 
 | Abdimajid Gelle Awil | SPE UTM Company Day | UTM International Somali Society Futsal Tournament |<a href="https://drive.google.com/file/d/1GgGPscQtfjRJV9EibcY9rwHHl13yyxrF/view?usp=share_link" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> |
 | Abdisamad Dayib Mohamed | Jawatankuasa Kolej Mahasiswa Kolej Datin Seri Endon | SPE-UTM SC Career Workshop |<a href="https://drive.google.com/file/d/1YhUN9XaIIE-WBlZLnfvROCpJ2cQ52pju/view?usp=share_link" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> |
-| Abel Agustinus | Cultural Festival 2021 | Virtual Night Movie |<a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a>|
-| Afika Syamrina Binti Benamri | Snipe the bow | Visit MBJB |<a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a>|
-| Ain Nur Annisa Binti Akhiruddin | Yuk Kenali Bola Jaring | Harta Tanah Strata - Cukai Tanah Atau Cukai Petak? |<a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a>|
-| Ariyo Pradhuta Putra | Sport ON by PPI UTM | EnviRUNment Virtual Run |<a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a>|
-| Chin San Kai | Young Employable Student (Yes!), We Are Ready! UTM Edition 2022 | Kathina Volunteer Event |<a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a>|
-| Ebrahim Abdo Mohammed Gaber | Welcoming new students | Standing in the front line |<a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a>|
-| Ellisya Binti Hasidan | Lads D'night 2022 | Visit MBJB |<a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a>|
-| Faatihah Maisarah Binti Rejak Habib | Snipe the bow | Lads D’night 2022 |<a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a>|
-| Fara Azean Bt Yusoff Anuar | FESKO Neon Run | Woodball |<a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a>|
+| Abel Agustinus | Cultural Festival 2021 | Virtual Night Movie |<a href="https://drive.google.com/file/d/133ZEKiT7Eqoct_CSugyb_tlIrq9Cy5fa/view?usp=share_link" ><img src="./images/pdf64.png" width="24px" height="24px" ></a>|
+| Afika Syamrina Binti Benamri | Snipe the bow | Visit MBJB |<a href="https://drive.google.com/file/d/1k6fpzPF3FU7rgYnuLZMRexA7v_rX7Np_/view?usp=share_link" ><img src="./images/pdf64.png" width="24px" height="24px" ></a>|
+| Ain Nur Annisa Binti Akhiruddin | Yuk Kenali Bola Jaring | Harta Tanah Strata - Cukai Tanah Atau Cukai Petak? |<a href="https://drive.google.com/file/d/1c8h5-GBjOXK-MkR8QVeYpCtq_4LxJQvV/view?usp=share_link" ><img src="./images/pdf64.png" width="24px" height="24px" ></a>|
+| Ariyo Pradhuta Putra | Sport ON by PPI UTM | EnviRUNment Virtual Run |<a href="https://drive.google.com/file/d/1BPa-yRl2a0qtRzK7H8D_JbjdTJYGk3FB/view?usp=share_link" ><img src="./images/pdf64.png" width="24px" height="24px" ></a>|
+| Chin San Kai | Young Employable Student (Yes!), We Are Ready! UTM Edition 2022 | Kathina Volunteer Event |<a href="https://drive.google.com/file/d/139pOIME54Toa7VOU2sav9ItfuIbdqiCe/view?usp=share_link" ><img src="./images/pdf64.png" width="24px" height="24px" ></a>|
+| Ebrahim Abdo Mohammed Gaber | Welcoming new students | Standing in the front line |<a href="https://drive.google.com/file/d/1xEQHLSXUeCN5fl9UKAenxMT9qA6Ebwao/view?usp=share_link" ><img src="./images/pdf64.png" width="24px" height="24px" ></a>|
+| Ellisya Binti Hasidan | Lads D'night 2022 | Visit MBJB |<a href="https://drive.google.com/file/d/1nOgj_L2gg1vj7n6GR4Vc4XuyocA7mAhG/view?usp=share_link" ><img src="./images/pdf64.png" width="24px" height="24px" ></a>|
+| Faatihah Maisarah Binti Rejak Habib | Snipe the bow | Lads D’night 2022 |<a href="https://drive.google.com/file/d/1OK-5PLA0X9xp6-E8nTAPQz_Bpr2NDiw9/view?usp=share_link" ><img src="./images/pdf64.png" width="24px" height="24px" ></a>|
+| Fara Azean Bt Yusoff Anuar | FESKO Neon Run | Woodball |<a href="https://drive.google.com/file/d/1XbXg9c63HadsQO2_pFZjesX-qob1Hi_V/view?usp=share_link" ><img src="./images/pdf64.png" width="24px" height="24px" ></a>|
 | Fatin Nurdiana Binti Jayah | Student Representative Election Day | School Engangement Day 2022 |<a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a>|
 | Hussein Dalmar Hussein | KDOJ Culexc ’22 Cooking Show | First year experience |<a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a>|
 | Huud Mohamed Warsame | Water safety awareness | How To Publish in High Impact Journals |<a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a>|
