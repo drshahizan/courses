@@ -22,7 +22,7 @@ Students need to prepare TWO different reports for each selected extra-curricula
 | Name | Activities 1 | Activities 2 | Report |
 | ----- | ----- | ----- | :------: | 
 | Abdimajid Gelle Awil | SPE UTM Company Day | UTM International Somali Society Futsal Tournament |<a href="https://drive.google.com/file/d/1GgGPscQtfjRJV9EibcY9rwHHl13yyxrF/view?usp=share_link" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> |
-| Abdisamad Dayib Mohamed | Jawatankuasa Kolej Mahasiswa Kolej Datin Seri Endon | SPE-UTM SC Career Workshop |<a href="https://drive.google.com/file/d/1YhUN9XaIIE-WBlZLnfvROCpJ2cQ52pju/view?usp=share_link" ><img src="https://github.com/drshahizan/courses/blob/main/UKQT3001/images/pdf64.png" width="24px" height="24px" ></a> |
+| Abdisamad Dayib Mohamed | Jawatankuasa Kolej Mahasiswa Kolej Datin Seri Endon | SPE-UTM SC Career Workshop |<a href="https://drive.google.com/file/d/1YhUN9XaIIE-WBlZLnfvROCpJ2cQ52pju/view?usp=share_link" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> |
 | Abel Agustinus | Cultural Festival 2021 | Virtual Night Movie |📔|
 | Afika Syamrina Binti Benamri | Snipe the bow | Visit MBJB |📔|
 | Ain Nur Annisa Binti Akhiruddin | Yuk Kenali Bola Jaring | Harta Tanah Strata - Cukai Tanah Atau Cukai Petak? |📔|
