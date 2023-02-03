@@ -21,7 +21,7 @@ Students need to prepare TWO different reports for each selected extra-curricula
 
 | Name | Activities 1 | Activities 2 | Report |
 | ----- | ----- | ----- | :------: | 
-| Abdimajid Gelle Awil | SPE UTM Company Day | UTM International Somali Society Futsal Tournament |<a href="https://youtu.be/-ofukIkr3X8"><img src="https://github.com/drshahizan/courses/blob/main/UKQT3001/images/pdf.png"></a> |
+| Abdimajid Gelle Awil | SPE UTM Company Day | UTM International Somali Society Futsal Tournament |<a href="https://youtu.be/-ofukIkr3X8"><img src="https://github.com/drshahizan/courses/blob/main/UKQT3001/images/pdf64.png" width="24px" height="24px" ></a> |
 | Abdisamad Dayib Mohamed | Jawatankuasa Kolej Mahasiswa Kolej Datin Seri Endon | SPE-UTM SC Career Workshop |📔|
 | Abel Agustinus | Cultural Festival 2021 | Virtual Night Movie |📔|
 | Afika Syamrina Binti Benamri | Snipe the bow | Visit MBJB |📔|
