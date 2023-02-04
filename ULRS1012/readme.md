@@ -20,7 +20,17 @@ Kursus ini juga menekankan kepentingan sistem nilai dan etika, yang merangkumi a
 
 | Kumpulan | Tajuk | Poster | Laporan |
 | :-----: | ----- | :------: | :------: | 
-| 1 | Kes rasuah projek solar di Sarawak |  |  |
+| 1 | Kes rasuah projek solar di Sarawak | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> |
+| 2 | Kes rasuah projek solar di Sarawak | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> |
+| 3 | Kes rasuah projek solar di Sarawak | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> |
+| 4 | Kes rasuah projek solar di Sarawak | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> |
+| 5 | Kes rasuah projek solar di Sarawak | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> |
+| 6 | Kes rasuah projek solar di Sarawak | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> |
+| 7 | Kes rasuah projek solar di Sarawak | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> |
+| 8 | Kes rasuah projek solar di Sarawak | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> |
+| 9 | Kes rasuah projek solar di Sarawak | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> |
+| 10 | Kes rasuah projek solar di Sarawak | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> |
+| 11 | Kes rasuah projek solar di Sarawak | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> |
 
 ### Analisis SWOT
 - Lakukan analisis SWOT dan bincangkan strategi untuk menyelesaikan kajian kes pilihan 
