@@ -16,6 +16,12 @@ Kursus ini juga menekankan kepentingan sistem nilai dan etika, yang merangkumi a
 
 ## Tugasan
 
+### Integriti dan Rasuah
+
+| Kumpulan | Tajuk | Poster | Laporan |
+| :-----: | ----- | :------: | :------: | 
+| 1 | Kes rasuah projek solar di Sarawak |  |  |
+
 ### Analisis SWOT
 - Lakukan analisis SWOT dan bincangkan strategi untuk menyelesaikan kajian kes pilihan 
 - Pelajar perlu memahami dan membincangkan secara kritikal dan lengkap tentang senario yang dibincangkan melalui setiap elemen SWOT. Pelajar perlu mencadangkan strategi yang sangat relevan dan berdasarkan penilaiaan yang analitik yang intensif.
