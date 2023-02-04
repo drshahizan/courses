@@ -18,6 +18,13 @@ Kursus ini juga menekankan kepentingan sistem nilai dan etika, yang merangkumi a
 
 ### Integriti dan Rasuah
 
+- Pelajar diminta membentuk satu kumpulan yang terdiri daripada empat (4) orang ahli sahaja.
+- Setiap kumpulan diminta mengenalpasti isu semasa berkaitan integriti dan rasuah.
+- Setiap kumpulan melaksanakan kajian kes untuk mendapatkan maklumat daripada pemegang taruh (stakeholders) yang terlibat/berkaitan dengan isu tersebut.
+- Kajian kes tersebut dilaksanakan sama ada secara temuramah atau tinjauan menggunakan soal selidik.
+- Setiap kumpulan mestilah mengemukakan isu yang berbeza dengan kumpulan lain.
+- Setiap kumpulan diminta menyediakan poster bersaiz A2.
+
 | Kumpulan | Tajuk | Poster | Laporan |
 | :-----: | ----- | :------: | :------: | 
 | 1 | Kes rasuah projek solar di Sarawak | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> |
