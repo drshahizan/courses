@@ -27,7 +27,7 @@ Kursus ini juga menekankan kepentingan sistem nilai dan etika, yang merangkumi a
 
 | Kumpulan | Tajuk | Poster | Laporan |
 | :-----: | ----- | :------: | :------: | 
-| 1 | Kes rasuah projek solar di Sarawak | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> |
+| 1 | Kes rasuah projek solar di Sarawak | <a href="https://drive.google.com/file/d/1Irj8iz2SSabit-IYuUBtPRomjW-qC_Ow/view?usp=share_link" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> |
 | 2 | Rasuah dalam kalangan masyarakat| <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> |
 | 3 | Bekas YDP dituduh kes rasuah luluskan projek di Selangor | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> |
 | 4 | Pengurus hartanah dan isterinya didakwa terlibat dalam rasuah dan pengubahan wang haram | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> | <a href="" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> |
