@@ -93,7 +93,7 @@ lawan.
 | Kumpulan | Tajuk | Video |
 | :-----: | ----- | :------: | 
 | 1 | Debat bidaan melibatkan ahli keluarga | <a href="https://youtu.be/V4YHV8BjALs"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
-| 2 | Penilaian kumpulan | <a href="https://youtu.be/KRMGKWjSGKE"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
+| 2 | Penilaian kumpulan | <a href="https://www.youtube.com/watch?v=i_8bcd4msO8"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 | 3 | Kemerosotan sifat bahan | <a href="https://youtu.be/_1li0bPaz-k"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 | 4 | Bahan kimia & toksik | <a href="https://youtu.be/3-BEpndxKtQ"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
 | 5 | 'Bad Unit' perlu diperbaiki | <a href="https://youtu.be/SsKVOH4mS00"><img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"></a> |
