@@ -14,7 +14,7 @@ Kursus ini mengetengahkan teras utama UTM yang menjadi penggerak kepada modal in
 
 Kursus ini juga menekankan kepentingan sistem nilai dan etika, yang merangkumi aspek hubungan antara manusia dan menguruskan /menghargai kepelbagaian. Di samping itu, kursus ini juga menekankan penyelesaian holistik terhadap isu-isu semasa, transformasi dan inovasi, falsafah sains dan teknologi yang berteraskan kepada nilai, integriti dan jati diri ke arah mencapai matlamat menghasilkan siswazah yang cemerlang dari segi jasmani, emosi, rohani dan intelek. Usaha ini selari dengan komitmen negara dalam melaksanakan Agenda Pembangunan Mampan (SDG) menjelang 2030 menerusi agenda Wawasan Kemakmuran Bersama 2030 dengan menyediakan taraf hidup yang baik untuk semua warganegara menjelang 2030.
 
-# [Tugasan SWOT](https://github.com/drshahizan/courses/blob/main/ULRS1012/images/Tug%20SWOT.pdf)
+# [Tugasan SWOT](https://github.com/drshahizan/courses/blob/main/ULRS1012/images/)
 
 ## Tugasan
 
