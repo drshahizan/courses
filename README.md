@@ -8,13 +8,16 @@
 Don't forget to hit the :star: if you like this repo.
 
 # 📚 Courses
+- [Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)
+- [Software Engineering (WBL)](https://github.com/drshahizan/software-engineering)
+- [Web Programming - PHP](https://github.com/drshahizan/learn-php)
 - High Performance Data Processing 
   -   [Python for beginners](https://github.com/drshahizan/python-tutorial)
   -   [Web scraping and Python web framework](https://github.com/drshahizan/python-web)
   -   [Exploratory data analysis](https://github.com/drshahizan/Python_EDA)
   -   [Big data processing](https://github.com/drshahizan/Python-big-data)
+  -   [Case Study](https://github.com/drshahizan/python-tutorial/blob/main/case-study.md)
 - [Programming Technique III: ASP.NET](https://github.com/drshahizan/learn-aspnet)
-- [Web Programming - PHP](https://github.com/drshahizan/learn-php)
 - [Extra-Curricular Experiential Learning](https://github.com/drshahizan/courses/blob/main/UKQT3001/readme.md)
 - [Value and Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)
 
