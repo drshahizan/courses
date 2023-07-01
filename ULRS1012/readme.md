@@ -43,7 +43,7 @@ Kursus ini juga menekankan kepentingan sistem nilai dan etika, yang merangkumi a
 - Lakukan analisis SWOT dan bincangkan strategi untuk menyelesaikan kajian kes pilihan 
 - Pelajar perlu memahami dan membincangkan secara kritikal dan lengkap tentang senario yang dibincangkan melalui setiap elemen SWOT. Pelajar perlu mencadangkan strategi yang sangat relevan dan berdasarkan penilaiaan yang analitik yang intensif.
 
-### Penghasilan Video : Public Survice Announcement 
+### Penghasilan Video : Public Service Announcement 
 Setiap kumpulan dikehendaki menghasilkan satu video pendek dengan kriteria berikut: 
 1. Durasi 1 sehingga 2 minit sahaja 
 2. Pelajar bebas menggunakan apa-apa sumber digital untuk menghasilkan video. 
