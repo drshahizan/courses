@@ -38,4 +38,4 @@ Managing tasks and tracking progress is essential for successful project managem
 #### Module 11: Zenodo
 Zenodo is a research data sharing platform that integrates seamlessly with GitHub. In this module, you will learn how to leverage Zenodo to archive and share your research outputs, enabling greater visibility and citation opportunities for your work.
 
-**Note:** This course is designed for individuals who are new to GitHub and want to gain a solid foundation in using the platform effectively. Whether you are a student, a professional developer, or someone interested in collaborative software development, this course will equip you with the essential skills needed to navigate GitHub and participate in open-source projects with confidence.
+> **Note:** This course is designed for individuals who are new to GitHub and want to gain a solid foundation in using the platform effectively. Whether you are a student, a professional developer, or someone interested in collaborative software development, this course will equip you with the essential skills needed to navigate GitHub and participate in open-source projects with confidence.
