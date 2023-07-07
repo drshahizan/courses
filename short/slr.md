@@ -8,7 +8,7 @@
 Don't forget to hit the :star: if you like this repo.
 
 
-# Systematic Literature Review Course
+# Systematic Literature Review Mastery: From Theory to Practice
 
 ## Course Overview
 The **Systematic Literature Review** course is designed to provide participants with comprehensive knowledge and practical skills in conducting systematic literature reviews. Participants will learn about the preferred reporting guidelines, tools, and techniques essential for conducting rigorous and transparent systematic reviews. This course aims to equip participants with the necessary skills to critically analyze research literature, synthesize evidence, and produce high-quality systematic review reports.
