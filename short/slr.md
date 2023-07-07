@@ -85,11 +85,6 @@ This course is suitable for researchers, academics, students, and professionals 
 ## Course Certification
 Upon successful completion of the course, participants will receive a certificate of achievement, demonstrating their proficiency in conducting systematic literature reviews.
 
-## Enrollment
-To enroll in the **Systematic Literature Review** course, please visit our website at [www.example.com](https://www.example.com) and follow the registration instructions.
-
-For any inquiries or further information, please contact us at [email protected]
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/courses/issues) for any improvements, suggestions or errors in the content.
 
