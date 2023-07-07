@@ -22,7 +22,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Value and Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)
 
 # Short Courses
-- [Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)
+- [GitHub Essentials: A Beginner's Guide to Getting Started](https://github.com/drshahizan/special-topic-data-engineering)
 
 
 ## Contribution 🛠️
