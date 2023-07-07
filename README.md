@@ -22,8 +22,14 @@ Don't forget to hit the :star: if you like this repo.
 - [Value and Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)
 
 # Short Courses
-- [GitHub Essentials: A Beginner's Guide to Getting Started]()
-- [AI Tools for Literature Review Course](./short/ai-tool)
+- [GitHub Essentials: A Beginner's Guide to Getting Started](./short/github-essentials.md)
+- [GitHub Essentials for Research: Managing Code, Data, and Collaboration in Academic Research](.https://github.com/drshahizan/courses/blob/main/short/github-research.md)
+- [Mastering GitHub: Empowering Academic Collaboration and Version Control](./short
+/github-academic.md)
+- [AI Tools for Literature Review Course](./short/ai-tool-lr.md)
+- [Systematic Literature Review Mastery: From Theory to Practice](./short/slr.md)
+  
+
 
 
 
