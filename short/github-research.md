@@ -44,25 +44,35 @@ GitHub Essentials for Research is a comprehensive course designed to equip resea
 - Creating a research website using Markdown and GitHub Pages
 - Customizing the website and showcasing research findings
 
-### 7. Reproducible Research with GitHub
+### 7. GitHub Dataset Repository
+- Creating and managing a dataset repository on GitHub
+- Structuring and organizing datasets for easy access and sharing
+- Collaborative dataset management and contribution workflows
+
+### 8. Reproducible Research with GitHub
 - Creating reproducible research environments with Git and GitHub
 - Managing dependencies and documenting research workflows
 - Archiving research projects with Zenodo integration
 
-### 8. Integration of GitHub with Visual Studio Code
+### 9. Integration of GitHub with Visual Studio Code
 - Setting up Visual Studio Code for seamless integration with GitHub
 - Managing code repositories, branches, and pull requests from within Visual Studio Code
 - Utilizing Visual Studio Code extensions for enhanced GitHub integration in research projects
 
-### 9. Integration of GitHub with Google Colab
+### 10. Integration of GitHub with Google Colab
 - Integrating Google Colab with GitHub for collaborative research and code sharing
 - Cloning, editing, and synchronizing Colab notebooks with GitHub repositories
 - Leveraging the power of GitHub and Google Colab for data analysis and machine learning projects
 
-### 10. GitHub Repositories Citable Using Zenodo
+### 11. GitHub Repositories Citable Using Zenodo
 - Understanding the importance of citable research outputs
 - Integrating GitHub repositories with Zenodo for assigning DOIs and ensuring citability
 - Publishing research artifacts on Zenodo and managing versioning
+
+### 12. GitHub Dataset Repository
+- Creating and managing a dataset repository on GitHub
+- Structuring and organizing datasets for easy access and sharing
+- Collaborative dataset management and contribution workflows
 
 ## Target Audience
 This course is designed for researchers, scientists, graduate students, and academic professionals who want to enhance their research practices, streamline collaboration, and ensure effective version control using GitHub.
@@ -73,7 +83,7 @@ This course is designed for researchers, scientists, graduate students, and acad
 - Prior experience with programming and data management is beneficial but not required.
 
 ## Duration
-- Estimated course duration: 16 hours (self-paced)
+- Estimated course duration: 18 hours (self-paced)
 
 ## Certification
 Upon completion of the course, participants will receive a certificate of achievement for GitHub Essentials for Research.
