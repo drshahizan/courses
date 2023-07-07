@@ -21,6 +21,10 @@ Don't forget to hit the :star: if you like this repo.
 - [Extra-Curricular Experiential Learning](https://github.com/drshahizan/courses/blob/main/UKQT3001/readme.md)
 - [Value and Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)
 
+# Short Courses
+- [Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/courses/issues) for any improvements, suggestions or errors in the content.
 
