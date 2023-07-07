@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Course Title: A Beginner's Guide to Getting Started with GitHub
+# A Beginner's Guide to Getting Started with GitHub
 
 ### Course Description:
 The "A Beginner's Guide to Getting Started with GitHub" course is designed to provide beginners with a comprehensive understanding of GitHub and its core functionalities. This course will take you through the essential steps of setting up a GitHub account, signing in, and navigating the platform. You will learn how to perform basic operations, collaborate on projects, use GitHub Desktop, configure settings, and explore advanced features like Zenodo integration.
