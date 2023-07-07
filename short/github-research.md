@@ -1,3 +1,4 @@
+
 # GitHub Essentials for Research: Managing Code, Data, and Collaboration in Academic Research
 
 ## Course Overview
@@ -40,6 +41,21 @@ GitHub Essentials for Research is a comprehensive course designed to equip resea
 - Managing dependencies and documenting research workflows
 - Archiving research projects with Zenodo integration
 
+### 8. Integration of GitHub with Visual Studio Code
+- Setting up Visual Studio Code for seamless integration with GitHub
+- Managing code repositories, branches, and pull requests from within Visual Studio Code
+- Utilizing Visual Studio Code extensions for enhanced GitHub integration in research projects
+
+### 9. Integration of GitHub with Google Colab
+- Integrating Google Colab with GitHub for collaborative research and code sharing
+- Cloning, editing, and synchronizing Colab notebooks with GitHub repositories
+- Leveraging the power of GitHub and Google Colab for data analysis and machine learning projects
+
+### 10. GitHub Repositories Citable Using Zenodo
+- Understanding the importance of citable research outputs
+- Integrating GitHub repositories with Zenodo for assigning DOIs and ensuring citability
+- Publishing research artifacts on Zenodo and managing versioning
+
 ## Target Audience
 This course is designed for researchers, scientists, graduate students, and academic professionals who want to enhance their research practices, streamline collaboration, and ensure effective version control using GitHub.
 
@@ -49,7 +65,7 @@ This course is designed for researchers, scientists, graduate students, and acad
 - Prior experience with programming and data management is beneficial but not required.
 
 ## Duration
-- Estimated course duration: 12 hours (self-paced)
+- Estimated course duration: 16 hours (self-paced)
 
 ## Certification
 Upon completion of the course, participants will receive a certificate of achievement for GitHub Essentials for Research.
