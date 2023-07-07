@@ -7,9 +7,6 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-
-# Mastering GitHub: Empowering Academic Collaboration and Version Control
-
 # AI Tools for Literature Review Course
 
 ## Course Overview
