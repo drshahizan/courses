@@ -25,7 +25,17 @@ GitHub Essentials for Research is a comprehensive course designed to equip resea
 - Resolving conflicts and merging changes
 - Utilizing issue tracking and pull requests for research collaboration
 
-### 5. Reproducible Research with GitHub
+### 5. GitHub Project Boards
+- Introduction to GitHub Project Boards for project management
+- Creating and organizing project boards for research tasks
+- Tracking progress, assigning tasks, and collaborating with team members
+
+### 6. GitHub Pages
+- Introduction to GitHub Pages for creating research websites
+- Creating a research website using Markdown and GitHub Pages
+- Customizing the website and showcasing research findings
+
+### 7. Reproducible Research with GitHub
 - Creating reproducible research environments with Git and GitHub
 - Managing dependencies and documenting research workflows
 - Archiving research projects with Zenodo integration
@@ -39,7 +49,7 @@ This course is designed for researchers, scientists, graduate students, and acad
 - Prior experience with programming and data management is beneficial but not required.
 
 ## Duration
-- Estimated course duration: 10 hours (self-paced)
+- Estimated course duration: 12 hours (self-paced)
 
 ## Certification
 Upon completion of the course, participants will receive a certificate of achievement for GitHub Essentials for Research.
@@ -57,4 +67,3 @@ Please refer to the course website for information on course fees and enrollment
 Please check the course website for the upcoming schedule and registration dates.
 
 *Note: The course content and schedule are subject to change to provide the best learning experience for participants.*
-
