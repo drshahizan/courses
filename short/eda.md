@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Course Information: Mastering Exploratory Data Analysis: Python Tools and Techniques
+# Mastering Exploratory Data Analysis: Python Tools and Techniques
 
 ## Course Description:
 In this comprehensive course on Exploratory Data Analysis (EDA), you will learn how to leverage the power of Python tools and techniques to effectively explore and analyze data. EDA is a crucial step in the data science workflow as it helps uncover patterns, relationships, and insights that drive decision-making.
