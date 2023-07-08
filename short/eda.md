@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Mastering Exploratory Data Analysis: Python Tools and Techniques
+# Course Information: Mastering Exploratory Data Analysis: Python Tools and Techniques
 
 ## Course Description:
 In this comprehensive course on Exploratory Data Analysis (EDA), you will learn how to leverage the power of Python tools and techniques to effectively explore and analyze data. EDA is a crucial step in the data science workflow as it helps uncover patterns, relationships, and insights that drive decision-making.
@@ -16,13 +16,11 @@ Through a hands-on approach, you will gain proficiency in essential Python libra
 
 The course will also cover data visualization using Matplotlib, Seaborn, Plotly, and Bokeh. You will learn how to create informative and visually appealing plots, charts, and interactive visualizations to communicate your findings effectively.
 
-Moreover, you will delve into advanced EDA tools such as Polymer Search, Rattle (R Package), Pandas Profiling, DataPrep, and Trifacta. These tools offer additional functionalities and automation to streamline the EDA process, allowing you to gain insights more efficiently and effectively.
+Moreover, you will delve into advanced EDA tools such as Polymer Search, Rattle (R Package), Pandas Profiling, DataPrep, and Trifacta to enhance your analysis capabilities and automate certain EDA tasks.
 
-Throughout the course, you will work with diverse datasets from various domains, enabling you to apply the EDA techniques and tools learned to real-world scenarios.
+Following the comprehensive coverage of EDA techniques and tools, you will have the opportunity to apply your knowledge and skills in an EDA project. This project will provide a real-world dataset where you will combine all the concepts learned throughout the course. You will engage in data cleaning, preprocessing, visualization, and exploratory analysis to extract valuable insights and present your findings.
 
-Additionally, you will be introduced to two essential tools in the data science ecosystem: Google Colab and GitHub. Google Colab provides a cloud-based Jupyter notebook environment with GPU support, allowing you to execute and collaborate on Python code seamlessly. GitHub is a version control system widely used for code sharing and collaboration in the data science community.
-
-By the end of this course, you will have mastered the art of Exploratory Data Analysis using Python, equipped with the skills to uncover valuable insights from data and make data-driven decisions. You will also be proficient in utilizing various EDA tools to enhance your analysis capabilities.
+By the end of this course, you will have mastered the art of Exploratory Data Analysis using Python, equipped with the skills to uncover valuable insights from data and make data-driven decisions. The EDA project will serve as a culmination of your learning, showcasing your ability to apply EDA concepts to real-world scenarios.
 
 ## Course Topics:
 1. Introduction to Python for Data Science
@@ -74,6 +72,14 @@ By the end of this course, you will have mastered the art of Exploratory Data An
    - Time series analysis and forecasting
    - Introduction to Natural Language Processing (NLP) for text analysis
 
+9. EDA Projects
+   - Overview of the EDA project
+   - Defining the problem statement and objectives
+   - Data cleaning and preprocessing for the project
+   - Exploratory data analysis techniques applied to the project
+   - Data visualization for extracting insights from the project data
+   - Drawing conclusions and presenting findings from the project
+
 ## Prerequisites:
 - Basic understanding of programming concepts
 - Familiarity with Python programming language is recommended but not mandatory
@@ -83,10 +89,13 @@ By the end of this course, you will have mastered the art of Exploratory Data An
 - Professionals seeking to enhance their data analysis skills
 - Anyone interested in exploring and gaining insights from data
 
-## Certification:
-Upon successful completion of the course, you will receive a certificate of achievement, affirming your mastery of Exploratory Data Analysis using Python tools and techniques, as well as proficiency in utilizing various EDA tools.
+## Course Duration:
+The course is designed to be completed in [X] weeks, with [Y] hours of instruction per week.
 
-Enroll now and unlock the potential of EDA with Python, empowering you to extract valuable insights from data, make informed decisions, and enhance your analysis capabilities using powerful EDA tools!
+## Certification:
+Upon successful completion of the course, you will receive a certificate of achievement, affirming your mastery of Exploratory Data Analysis using Python tools and techniques. The successful completion of the EDA project will also be recognized as a significant achievement in applying EDA concepts to real-world scenarios.
+
+Enroll now and unlock the potential of EDA with Python, empowering you to extract valuable insights from data, make informed decisions, and showcase your skills through a comprehensive EDA project!
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/courses/issues) for any improvements, suggestions or errors in the content.
