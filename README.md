@@ -28,7 +28,7 @@ Don't forget to hit the :star: if you like this repo.
 - [AI Tools for Literature Review Course](./short/ai-tool-lr.md)
 - [Systematic Literature Review Mastery: From Theory to Practice](./short/slr.md)
 - [Mastering Exploratory Data Analysis: Python Tools and Techniques](./short/eda.md)
-  
+- [Web Scraping Fundamentals: Empowering Data-driven Decision Making](./short/web-scraping.md)
 
 
 
