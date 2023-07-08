@@ -89,9 +89,6 @@ By the end of this course, you will have mastered the art of Exploratory Data An
 - Professionals seeking to enhance their data analysis skills
 - Anyone interested in exploring and gaining insights from data
 
-## Course Duration:
-The course is designed to be completed in [X] weeks, with [Y] hours of instruction per week.
-
 ## Certification:
 Upon successful completion of the course, you will receive a certificate of achievement, affirming your mastery of Exploratory Data Analysis using Python tools and techniques. The successful completion of the EDA project will also be recognized as a significant achievement in applying EDA concepts to real-world scenarios.
 
