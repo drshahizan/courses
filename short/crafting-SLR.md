@@ -7,14 +7,12 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-Certainly! Here's a detailed course information outline for the "Crafting a Systematic Literature Review Workshop":
+# Course Title: Crafting a Systematic Literature Review Workshop
 
-### Course Title: Crafting a Systematic Literature Review Workshop
-
-#### Course Description:
+## Course Description:
 The "Crafting a Systematic Literature Review Workshop" is designed to equip participants with the essential knowledge and skills needed to conduct a comprehensive and methodical systematic literature review. Participants will learn the step-by-step process of conducting a literature review, including identifying a research topic, understanding the rationale behind the review, drafting an effective introduction, collecting a relevant sample, employing a robust methodology, extracting and organizing data, presenting findings using tables and figures, offering recommendations, drawing meaningful conclusions, and preparing the manuscript for submission.
 
-#### Course Objectives:
+## Course Objectives:
 By the end of this workshop, participants will be able to:
 - Identify a research topic for a systematic literature review.
 - Understand the rationale and purpose behind conducting a systematic literature review.
@@ -28,7 +26,7 @@ By the end of this workshop, participants will be able to:
 - Review and revise the manuscript to meet academic standards.
 - Finalize the manuscript for submission to academic journals or relevant outlets.
 
-#### Course Outline:
+## Course Outline:
 1. **Module 1: Identifying the Research Topic (1 hour)**
    - *Description:* This module focuses on helping participants choose a research topic that aligns with their interests and contributes to existing knowledge.
   
@@ -62,13 +60,13 @@ By the end of this workshop, participants will be able to:
 11. **Module 11: Finalizing the Manuscript for Submission (1 hour)**
     - *Description:* Participants will prepare the manuscript for submission to academic journals or other relevant outlets, ensuring it meets submission requirements.
 
-#### Target Audience:
+## Target Audience:
 - Graduate students
 - Early-career researchers
 - Academics and faculty members
 - Professionals interested in research and publication
 
-#### Prerequisites:
+## Prerequisites:
 - Basic understanding of research methods and academic writing.
 
 This workshop provides a comprehensive guide for individuals looking to enhance their skills in conducting systematic literature reviews, making it a valuable resource for both academic and professional growth.
