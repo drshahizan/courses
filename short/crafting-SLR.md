@@ -27,37 +27,37 @@ By the end of this workshop, participants will be able to:
 - Finalize the manuscript for submission to academic journals or relevant outlets.
 
 ## Course Outline:
-1. **Module 1: Identifying the Research Topic**
-   - *Description:* This module focuses on helping participants choose a research topic that aligns with their interests and contributes to existing knowledge.
+### 1. Identifying the Research Topic
+   - This module focuses on helping participants choose a research topic that aligns with their interests and contributes to existing knowledge.
   
-2. **Module 2: Understanding Research Rationale**
+### 2.  Understanding Research Rationale 
    - *Description:* Participants will understand the importance of defining research questions, objectives, and the overall purpose of their literature review.
   
-3. **Module 3: Drafting the Introduction**
+### 3. **Module 3: Drafting the Introduction
    - *Description:* Participants will learn how to craft a compelling introduction, setting the context, and presenting the research questions guiding the review.
   
-4. **Module 4: Sample Collection**
+### 4. **Module 4: Sample Collection
    - *Description:* This module focuses on strategies for systematic sample collection, including effective database search and relevant keyword selection.
   
-5. **Module 5: Methodology**
+### 5. **Module 5: Methodology
    - *Description:* Participants will understand how to define inclusion and exclusion criteria, design an effective search strategy, and screen and select studies based on the methodology.
   
-6. **Module 6: Data Extraction and Tabulation**
+### 6. **Module 6: Data Extraction and Tabulation
    - *Description:* Participants will learn how to systematically extract relevant data from selected studies and organize it in a structured manner.
   
-7. **Module 7: Tables and Figures Discussion**
+### 7. **Module 7: Tables and Figures Discussion
    - *Description:* Participants will understand how to effectively present extracted data using tables and figures to enhance readability and comprehension.
   
-8. **Module 8: Providing Recommendations**
+### 8. **Module 8: Providing Recommendations**
    - *Description:* This module focuses on guiding participants to provide meaningful recommendations based on the synthesized evidence.
   
-9. **Module 9: Conclusion and Implications**
+### 9. **Module 9: Conclusion and Implications**
    - *Description:* Participants will learn how to write a comprehensive conclusion summarizing key findings and discussing their implications.
   
-10. **Module 10: Reviewing the Manuscripts**
+### 10. **Module 10: Reviewing the Manuscripts**
     - *Description:* This module involves the critical process of reviewing and revising the manuscript to ensure clarity and coherence.
   
-11. **Module 11: Finalizing the Manuscript for Submission**
+### 11. **Module 11: Finalizing the Manuscript for Submission**
     - *Description:* Participants will prepare the manuscript for submission to academic journals or other relevant outlets, ensuring it meets submission requirements.
 
 ## Target Audience:
