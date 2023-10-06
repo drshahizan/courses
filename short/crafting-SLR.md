@@ -15,13 +15,13 @@ The "Crafting a Systematic Literature Review Workshop" is designed to provide pa
 ## Course Objectives:
 By the end of this workshop, participants will be able to:
 
-### 1. Research Topic Identification
+#### 1. Research Topic Identification
    - Participants will learn to select a research topic suitable for a systematic literature review by considering relevance, gaps in existing knowledge, and alignment with research interests.
 
-### 2. Understanding Rationale and Purpose
+#### 2. Understanding Rationale and Purpose
    - Participants will understand the rationale and purpose behind conducting a systematic literature review, emphasizing the significance of formulating research questions and objectives.
 
-### 3. Effective Literature Review Crafting
+#### 3. Effective Literature Review Crafting
    - Participants will develop skills to draft a well-structured introduction that effectively sets the stage for a literature review, showcasing the importance of a strong opening in research synthesis.
      
 ## Course Outline:
