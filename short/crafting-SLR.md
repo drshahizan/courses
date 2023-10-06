@@ -53,10 +53,10 @@ By the end of this workshop, participants will be able to:
    - Participants will learn how to write a comprehensive conclusion summarizing key findings and discussing their implications.
   
 ### 10. Reviewing the Manuscripts
-    - This module involves the critical process of reviewing and revising the manuscript to ensure clarity and coherence.
+- This module involves the critical process of reviewing and revising the manuscript to ensure clarity and coherence.
   
 ### 11. Finalizing the Manuscript for Submission
-    - Participants will prepare the manuscript for submission to academic journals or other relevant outlets, ensuring it meets submission requirements.
+ - Participants will prepare the manuscript for submission to academic journals or other relevant outlets, ensuring it meets submission requirements.
 
 ## Target Audience:
 - Graduate students
