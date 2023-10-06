@@ -31,10 +31,10 @@ By the end of this workshop, participants will be able to:
 ### 2. Understanding Research Rationale 
    -  Participants will understand the importance of defining research questions, objectives, and the overall purpose of their literature review.
   
-### 3. Module 3: Drafting the Introduction
+### 3. Drafting the Introduction
    - Participants will learn how to craft a compelling introduction, setting the context, and presenting the research questions guiding the review.
   
-### 4. Module 4: Sample Collection
+### 4. Sample Collection
    - This module focuses on strategies for systematic sample collection, including effective database search and relevant keyword selection.
   
 ### 5. Methodology
