@@ -34,32 +34,80 @@ By the end of this course, participants will be able to:
 6. Evaluate the suitability and reliability of AI-generated results in literature review.
 7. Incorporate ethical considerations when using AI tools for literature review.
 
-## Course Modules
-The course consists of the following modules:
+## Course Modules for AI Tools
 
-### 1. Paper Search
-- Elicit: An AI-powered tool for searching and retrieving relevant research papers.
-- Evidence Hunt: An AI-powered tool for prioritizing and identifying research papers based on relevance.
-- Litmaps: An AI-powered platform for comprehensive literature searches and visualizations.
-- SciTe AI: An AI tool for simplifying the process of finding scientific articles.
-- Semantic Scholar: An AI-powered academic search engine for discovering influential scholarly articles.
+This course is designed to provide in-depth knowledge and practical skills related to various AI tools utilized in academic research, analysis, and content management. The course is divided into several modules, each focusing on a specific category of AI tools and their applications in the research domain.
 
-### 2. Paper Discovery
-- Connected Papers: An AI tool for visualizing connections between research papers.
-- Iris: An AI tool with features such as concept maps to identify related papers.
-- R Discovery: An AI-powered platform for staying up-to-date with the latest research.
-- BARD AI: An AI tool for discovering and exploring scientific articles across disciplines.
-- Humata AI: An AI-powered platform for personalized recommendations and time-saving literature review.
-- Socratic AI: An AI-powered research assistant for literature search, summarization, and insights generation.
+### Module 1: Introduction to AI Tools in Research
 
-### 3. Paper Visualization
-- Inciteful: An AI tool for visualizing relationships between research papers using interactive graphs.
-- SciSpace: An AI-powered platform for visualizing scientific knowledge and exploring paper connections.
+- **Overview of AI in Academic Research**
+  - Understanding the role and significance of AI tools in the realm of academic research.
 
-### 4. Chatbot and Assistance
-- Bing Chat AI: An AI-powered chatbot for literature search queries and research guidance.
-- PaperPal: An AI tool for organizing and managing research papers, including metadata extraction and search capabilities.
-- Paper Brain: An AI tool for organizing and managing research papers, offering automated tagging and personalized recommendations.
+- **Key AI Technologies for Research**
+  - Exploring foundational AI technologies relevant to academic research, such as natural language processing and machine learning.
+
+- **Ethical Considerations in AI-Driven Research**
+  - Discussing ethical implications and considerations when utilizing AI tools for research purposes.
+
+### Module 2: Literature Search Tools
+
+- **Fundamentals of Literature Search**
+  - Understanding the importance of literature search and its role in academic research.
+
+- **Scopus, Web of Science, and Google Scholar**
+  - In-depth exploration of popular literature search tools and how to effectively utilize them.
+
+- **Specialized Literature Search Tools**
+  - Exploring AI-driven literature search tools like Elicit, Zeta Alpha, and EvidenceHunt for advanced research.
+
+### Module 3: Paper Discovery and Visualization
+
+- **Introduction to Paper Discovery**
+  - Understanding the concept of paper discovery and its significance in academic research.
+
+- **Connected Papers and Iris**
+  - Learning how to use AI tools like Connected Papers and Iris for efficient paper discovery.
+
+- **Paper Visualization Techniques**
+  - Exploring tools like VOSviewer, CiteSpace, and Gephi for visualizing research papers and citation networks.
+
+### Module 4: Chatbots and Research Assistance
+
+- **Chatbots in Academia**
+  - Understanding the role of AI-powered chatbots in assisting researchers and students.
+
+- **ChatGPT and AI Chatbot Landscape**
+  - Exploring the capabilities and applications of chatbots such as ChatGPT, Bard AI, and Bing Chat AI in research assistance.
+
+- **Text Summarization and Assistance Tools**
+  - Learning how AI-powered tools like TLDR This, Scholarcy, and Wordtune aid in summarizing and enhancing text for academic purposes.
+
+### Module 5: Detecting AI-Generated Content and Quality Assurance
+
+- **AI-Generated Content Detection**
+  - Understanding the challenges and methodologies for detecting AI-generated content using tools like GPTZero and Copyleaks.
+
+- **Content Quality Assurance with AI**
+  - Exploring how AI tools contribute to maintaining content quality and authenticity using tools like Corrector.app and Writer.com.
+
+### Module 6: Systematic Review Management and Citation Tools
+
+- **Systematic Review Process Overview**
+  - Understanding the systematic review process and its significance in research.
+
+- **Tools for Systematic Review Management**
+  - Exploring tools like Rayyan, Covidence, and DistillerSR for effective systematic review management.
+
+- **Citation Management and Organization**
+  - Learning to efficiently manage citations using tools such as EndNote, RefWorks, and Zotero.
+
+### Module 7: Practical Applications and Case Studies
+
+- **Real-World Applications of AI Tools**
+  - Analyzing case studies and real-world applications of AI tools in research across different disciplines.
+
+- **Hands-on Experience and Projects**
+  - Engaging in practical projects to apply AI tools for literature search, paper discovery, chatbot development, and more.
 
 ## Course Delivery
 The course will be delivered through a combination of lectures, demonstrations, hands-on exercises, and discussions. Participants will have access to an online learning platform where they can access course materials, engage in activities, and interact with instructors and fellow participants.
