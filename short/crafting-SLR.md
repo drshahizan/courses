@@ -7,57 +7,71 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# AI Tools for Literature Review Course
+Certainly! Here's a detailed course information outline for the "Crafting a Systematic Literature Review Workshop":
 
-## Course Overview
-The **AI Tools for Literature Review** course is designed to provide participants with comprehensive knowledge and practical skills in utilizing artificial intelligence (AI) tools for conducting efficient and effective literature reviews. Participants will explore various AI-powered tools and techniques for paper search, paper discovery, paper visualization, and chatbot assistance, specifically tailored for literature review purposes.
+### Course Title: Crafting a Systematic Literature Review Workshop
 
-## Course Objectives
-By the end of this course, participants will be able to:
+#### Course Description:
+The "Crafting a Systematic Literature Review Workshop" is designed to equip participants with the essential knowledge and skills needed to conduct a comprehensive and methodical systematic literature review. Participants will learn the step-by-step process of conducting a literature review, including identifying a research topic, understanding the rationale behind the review, drafting an effective introduction, collecting a relevant sample, employing a robust methodology, extracting and organizing data, presenting findings using tables and figures, offering recommendations, drawing meaningful conclusions, and preparing the manuscript for submission.
 
-1. Understand the fundamentals of AI and its applications in literature review.
-2. Utilize AI tools for paper search to efficiently find relevant research papers.
-3. Explore AI tools for paper discovery to identify related articles and scholarly connections.
-4. Apply AI tools for paper visualization to understand the relationships between research papers.
-5. Utilize AI-powered chatbots and assistance tools to enhance the literature review process.
-6. Evaluate the suitability and reliability of AI-generated results in literature review.
-7. Incorporate ethical considerations when using AI tools for literature review.
+#### Course Objectives:
+By the end of this workshop, participants will be able to:
+- Identify a research topic for a systematic literature review.
+- Understand the rationale and purpose behind conducting a systematic literature review.
+- Draft a well-structured introduction for a literature review.
+- Develop effective strategies for sample collection and search.
+- Define and implement an appropriate methodology for conducting a systematic literature review.
+- Extract and tabulate relevant data from selected studies.
+- Discuss the use of tables and figures to present data effectively.
+- Provide meaningful recommendations based on the synthesized evidence.
+- Summarize findings and implications concisely in the conclusion.
+- Review and revise the manuscript to meet academic standards.
+- Finalize the manuscript for submission to academic journals or relevant outlets.
 
-## Course Modules
-The course consists of the following modules:
+#### Course Outline:
+1. **Module 1: Identifying the Research Topic (1 hour)**
+   - *Description:* This module focuses on helping participants choose a research topic that aligns with their interests and contributes to existing knowledge.
+  
+2. **Module 2: Understanding Research Rationale (1.5 hours)**
+   - *Description:* Participants will understand the importance of defining research questions, objectives, and the overall purpose of their literature review.
+  
+3. **Module 3: Drafting the Introduction (1.5 hours)**
+   - *Description:* Participants will learn how to craft a compelling introduction, setting the context, and presenting the research questions guiding the review.
+  
+4. **Module 4: Sample Collection (2 hours)**
+   - *Description:* This module focuses on strategies for systematic sample collection, including effective database search and relevant keyword selection.
+  
+5. **Module 5: Methodology (2.5 hours)**
+   - *Description:* Participants will understand how to define inclusion and exclusion criteria, design an effective search strategy, and screen and select studies based on the methodology.
+  
+6. **Module 6: Data Extraction and Tabulation (2 hours)**
+   - *Description:* Participants will learn how to systematically extract relevant data from selected studies and organize it in a structured manner.
+  
+7. **Module 7: Tables and Figures Discussion (1.5 hours)**
+   - *Description:* Participants will understand how to effectively present extracted data using tables and figures to enhance readability and comprehension.
+  
+8. **Module 8: Providing Recommendations (1 hour)**
+   - *Description:* This module focuses on guiding participants to provide meaningful recommendations based on the synthesized evidence.
+  
+9. **Module 9: Conclusion and Implications (1.5 hours)**
+   - *Description:* Participants will learn how to write a comprehensive conclusion summarizing key findings and discussing their implications.
+  
+10. **Module 10: Reviewing the Manuscripts (1.5 hours)**
+    - *Description:* This module involves the critical process of reviewing and revising the manuscript to ensure clarity and coherence.
+  
+11. **Module 11: Finalizing the Manuscript for Submission (1 hour)**
+    - *Description:* Participants will prepare the manuscript for submission to academic journals or other relevant outlets, ensuring it meets submission requirements.
 
-### 1. Paper Search
-- Elicit: An AI-powered tool for searching and retrieving relevant research papers.
-- Evidence Hunt: An AI-powered tool for prioritizing and identifying research papers based on relevance.
-- Litmaps: An AI-powered platform for comprehensive literature searches and visualizations.
-- SciTe AI: An AI tool for simplifying the process of finding scientific articles.
-- Semantic Scholar: An AI-powered academic search engine for discovering influential scholarly articles.
+#### Target Audience:
+- Graduate students
+- Early-career researchers
+- Academics and faculty members
+- Professionals interested in research and publication
 
-### 2. Paper Discovery
-- Connected Papers: An AI tool for visualizing connections between research papers.
-- Iris: An AI tool with features such as concept maps to identify related papers.
-- R Discovery: An AI-powered platform for staying up-to-date with the latest research.
-- BARD AI: An AI tool for discovering and exploring scientific articles across disciplines.
-- Humata AI: An AI-powered platform for personalized recommendations and time-saving literature review.
-- Socratic AI: An AI-powered research assistant for literature search, summarization, and insights generation.
+#### Prerequisites:
+- Basic understanding of research methods and academic writing.
 
-### 3. Paper Visualization
-- Inciteful: An AI tool for visualizing relationships between research papers using interactive graphs.
-- SciSpace: An AI-powered platform for visualizing scientific knowledge and exploring paper connections.
-
-### 4. Chatbot and Assistance
-- Bing Chat AI: An AI-powered chatbot for literature search queries and research guidance.
-- PaperPal: An AI tool for organizing and managing research papers, including metadata extraction and search capabilities.
-- Paper Brain: An AI tool for organizing and managing research papers, offering automated tagging and personalized recommendations.
-
-## Course Delivery
-The course will be delivered through a combination of lectures, demonstrations, hands-on exercises, and discussions. Participants will have access to an online learning platform where they can access course materials, engage in activities, and interact with instructors and fellow participants.
-
-## Target Audience
-This course is suitable for researchers, academics, students, and professionals involved in conducting literature reviews or interested in leveraging AI tools for more efficient and effective literature review processes.
-
-## Course Certification
-Upon successful completion of the course, participants will receive a certificate of achievement, demonstrating their proficiency in utilizing AI tools for literature review.
+This workshop provides a comprehensive guide for individuals looking to enhance their skills in conducting systematic literature reviews, making it a valuable resource for both academic and professional growth.
 
 For any inquiries or further information, please contact us at shahizan@utm.my
 
