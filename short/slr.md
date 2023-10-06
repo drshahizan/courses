@@ -16,17 +16,14 @@ The **Systematic Literature Review** course is designed to provide participants 
 ## Course Objectives
 By the end of this course, participants will be able to:
 
-1. Understand the principles and importance of systematic literature reviews.
-2. Familiarize themselves with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines.
-3. Identify key documents and resources related to PRISMA.
-4. Explore tools and techniques for conducting systematic reviews effectively.
-5. Utilize AI-powered tools such as Writing Research Paper by Chat GPT, Elicit, Galactica, Explain Paper, and SciSpace for systematic literature review purposes.
-6. Apply critical appraisal techniques to assess the quality and reliability of research studies.
-7. Synthesize evidence from multiple studies to generate meaningful conclusions and recommendations.
-8. Produce well-structured and transparent systematic review reports.
-9. Find relevant data sources using Google's Dataset Search.
-10. Visualize the findings of a literature review using VOSViewer.
-11. Explore visualizations and analysis techniques for census data.
+1. **Master the Foundations and Significance of Systematic Literature Reviews:**
+   Gain a deep understanding of the principles underpinning systematic literature reviews and recognize their critical role in academic research and evidence-based decision-making.
+
+2. **Navigate and Implement PRISMA Guidelines:**
+   Acquire proficiency in utilizing the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, fostering the ability to conduct comprehensive and transparent systematic reviews.
+
+3. **Optimize Systematic Review Practices with Advanced Tools and Critical Appraisal:**
+   Explore and apply advanced tools, AI-powered technologies, and critical appraisal techniques to conduct effective and high-quality systematic reviews, ensuring the synthesis of diverse research to produce insightful conclusions and recommendations.
 
 ## Course Modules
 The course consists of the following modules:
