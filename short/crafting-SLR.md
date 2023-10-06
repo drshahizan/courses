@@ -47,8 +47,6 @@ The critical process of reviewing and revising the manuscript to ensure clarity,
 ### 11. Finalizing the Manuscript for Submission
 Preparing the manuscript for submission to academic journals or other relevant outlets is the final step. Participants will learn how to ensure the manuscript meets submission requirements and guidelines, enhancing the likelihood of acceptance for publication.
 
-By the end of this workshop, participants will possess a profound understanding of the systematic literature review process and the skills to undertake such reviews with precision and impact in their respective fields. The workshop's comprehensive modules and practical insights will empower participants to conduct literature reviews that contribute significantly to the body of knowledge in their chosen domains.
-
 ## Target Audience:
 - Graduate students
 - Early-career researchers
@@ -58,7 +56,7 @@ By the end of this workshop, participants will possess a profound understanding 
 ## Prerequisites:
 - Basic understanding of research methods and academic writing.
 
-This workshop provides a comprehensive guide for individuals looking to enhance their skills in conducting systematic literature reviews, making it a valuable resource for both academic and professional growth.
+By the end of this workshop, participants will possess a profound understanding of the systematic literature review process and the skills to undertake such reviews with precision and impact in their respective fields. The workshop's comprehensive modules and practical insights will empower participants to conduct literature reviews that contribute significantly to the body of knowledge in their chosen domains.
 
 For any inquiries or further information, please contact us at shahizan@utm.my
 
