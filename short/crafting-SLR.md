@@ -10,22 +10,20 @@ Don't forget to hit the :star: if you like this repo.
 # Course Title: Crafting a Systematic Literature Review Workshop
 
 ## Course Description:
-The "Crafting a Systematic Literature Review Workshop" is designed to equip participants with the essential knowledge and skills needed to conduct a comprehensive and methodical systematic literature review. Participants will learn the step-by-step process of conducting a literature review, including identifying a research topic, understanding the rationale behind the review, drafting an effective introduction, collecting a relevant sample, employing a robust methodology, extracting and organizing data, presenting findings using tables and figures, offering recommendations, drawing meaningful conclusions, and preparing the manuscript for submission.
+The "Crafting a Systematic Literature Review Workshop" is designed to provide participants with comprehensive knowledge and practical skills necessary to conduct a thorough and methodical systematic literature review. This workshop covers a step-by-step process, guiding participants through various stages, from identifying a research topic to finalizing the manuscript for submission. Participants will gain expertise in drafting a structured introduction, collecting a relevant and representative sample, employing a robust methodology, extracting and organizing data, presenting findings effectively using tables and figures, providing meaningful recommendations, drawing insightful conclusions, and ensuring the manuscript meets academic standards for submission.
 
 ## Course Objectives:
 By the end of this workshop, participants will be able to:
-- Identify a research topic for a systematic literature review.
-- Understand the rationale and purpose behind conducting a systematic literature review.
-- Draft a well-structured introduction for a literature review.
-- Develop effective strategies for sample collection and search.
-- Define and implement an appropriate methodology for conducting a systematic literature review.
-- Extract and tabulate relevant data from selected studies.
-- Discuss the use of tables and figures to present data effectively.
-- Provide meaningful recommendations based on the synthesized evidence.
-- Summarize findings and implications concisely in the conclusion.
-- Review and revise the manuscript to meet academic standards.
-- Finalize the manuscript for submission to academic journals or relevant outlets.
 
+### 1. Research Topic Identification
+   - Participants will learn to select a research topic suitable for a systematic literature review by considering relevance, gaps in existing knowledge, and alignment with research interests.
+
+### 2. Understanding Rationale and Purpose
+   - Participants will understand the rationale and purpose behind conducting a systematic literature review, emphasizing the significance of formulating research questions and objectives.
+
+### 3. Effective Literature Review Crafting
+   - Participants will develop skills to draft a well-structured introduction that effectively sets the stage for a literature review, showcasing the importance of a strong opening in research synthesis.
+     
 ## Course Outline:
 ### 1. Identifying the Research Topic
    - This module focuses on helping participants choose a research topic that aligns with their interests and contributes to existing knowledge.
