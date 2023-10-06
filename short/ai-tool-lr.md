@@ -38,8 +38,6 @@ By the end of this course, participants will be able to:
 
 This course is designed to provide in-depth knowledge and practical skills related to various AI tools utilized in academic research, analysis, and content management. The course is divided into several modules, each focusing on a specific category of AI tools and their applications in the research domain.
 
-## Course Modules for AI Tools
-
 **Module 1: Introduction to AI Tools in Research**
 
 - Overview of AI in Academic Research: Understanding the role and significance of AI tools in the realm of academic research.
