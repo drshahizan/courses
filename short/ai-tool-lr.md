@@ -10,7 +10,18 @@ Don't forget to hit the :star: if you like this repo.
 # AI Tools for Literature Review Course
 
 ## Course Overview
-The **AI Tools for Literature Review** course is designed to provide participants with comprehensive knowledge and practical skills in utilizing artificial intelligence (AI) tools for conducting efficient and effective literature reviews. Participants will explore various AI-powered tools and techniques for paper search, paper discovery, paper visualization, and chatbot assistance, specifically tailored for literature review purposes.
+Literature reviews are an essential part of academic research. They allow researchers to gather and synthesize information from previous studies, identify gaps in the literature, and develop new research questions.
+
+Traditionally, literature reviews have been conducted manually. Researchers would search for relevant articles in academic databases, read them carefully, and take notes. This process can be time-consuming and tedious.
+
+In recent years, artificial intelligence (AI) has been used to automate some of the tasks involved in literature reviews. AI tools can be used to search for relevant articles, summarize the content of articles, and identify relationships between articles.
+This modules provides an overview of the use of AI tools for literature reviews. It covers the following topics:
+- The benefits of using AI tools for literature reviews
+- The different types of AI tools available
+- How to use AI tools to conduct literature reviews
+- The limitations of AI tools for literature reviews
+
+The modules is intended for researchers who are interested in learning more about the use of AI tools for literature reviews. It will also be of interest to librarians and information scientists who are involved in the development and evaluation of AI tools for research.This book will teach you the basics using AI tools for Literature Review.
 
 ## Course Objectives
 By the end of this course, participants will be able to:
