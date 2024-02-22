@@ -10,15 +10,6 @@ Don't forget to hit the :star: if you like this repo.
 # Obsidian.md Mastery for Academic Writing
 
 ## Course Overview
-This comprehensive Obsidian MD Course is tailored specifically for academic writers. Whether you’re a student, researcher, or professor, this course equips you with the tools to enhance your scholarly work. Dive into the world of markdown-based note-taking, create structured outlines, and master the art of organizing research materials. Say goodbye to scattered notes—your academic journey will be streamlined and efficient.
-
-Certainly! Here's a concise synopsis for an **Obsidian MD Course on Academic Writing**, along with a catchy title:
-
----
-
-## **Course Synopsis: Obsidian MD Mastery for Academic Writing**
-
-**Description:**
 This comprehensive **Obsidian MD Course** is tailored specifically for academic writers. Whether you're a student, researcher, or professor, this course equips you with the tools to enhance your scholarly work. Dive into the world of markdown-based note-taking, create structured outlines, and master the art of organizing research materials. Say goodbye to scattered notes—your academic journey will be streamlined and efficient.
 
 **Course Highlights:**
